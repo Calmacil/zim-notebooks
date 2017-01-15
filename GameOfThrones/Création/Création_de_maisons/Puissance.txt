@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T18:25:35+01:00
+
+====== Puissance ======
+Created dimanche 15 janvier 2017
+
+===== Coût de base des unités =====
+| Entrainement | Coût de base | Discipline      | Expérience      |
+|:-------------|:-------------|:----------------|:----------------|
+| Bleu         | 1            | Délicat (9)     | 1 augmentation  |
+| Entraîné     | 3            | Simple (6)      | 3 augmentations |
+| Vétéran      | 5            | Facile (3)      | 5 augmentations |
+| Élite        | 7            | Élémentaire (0) | 7 augmentations |
+
+
+===== Types d’unités =====
+| Type              | Coût + | Discipline | Compétences                             | Armure                          | CàC                | Tir                                   |
+|:------------------|:-------|:-----------|:----------------------------------------|:--------------------------------|:-------------------|:--------------------------------------|
+| Archers           | +3     | +3         | Agilité, Tir, Vigilance                 | 2 (3) · MA -1 (-2) · Enc 0      | Athlétisme -1 (+0) | Agilité +2 (+3); longue portée        |
+| Cavalerie         | +5     | -3         | Agilité, Corps à Corps, Dressage        | 5 (9) · MA -3 (-5) · Enc 2 (3)  | Dressage +3 (+5)   | —                                     |
+| Criminels         | +1     | +6         | Corps à Corps, Discrétion, Endurance    | 1 (4) · MA 0 (-2) · Enc 0 (1)   | Athlétisme +1 (+2) | —                                     |
+| Croisés           | +4     | +0         | Athlétisme, Corps à Corps, Endurance    | 3 (4) · MA -2 · Enc 0 (1)       | Athlétisme +1 (+2) | —                                     |
+| Éclaireurs        | +2     | +3         | Endurance, Discrétion, Vigilance        | 2 (3) · MA -1 (-2) · Enc 0      | Athlétisme (+1)    | Agilité (+1); longue portée           |
+| Garde personnelle | +6     | -6         | Athlétisme, Corps à Corps, Endurance    | 6 (10) · MA -3 (-6) · Enc 2 (3) | Athlétisme +1 (+2) | —                                     |
+| Garnison          | +2     | +3 / -3    | Corps à Corps, Endurance, Vigilance     | 3 (5) · MA -2 (-3) · Enc 0 (2)  | Athlétisme +1 (+2) | —                                     |
+| Guérilleros       | +2     | +3         | Athlétisme, Discrétion, Tir             | 1 (3) · MA 0 (-2) · Enc 0       | Athlétisme (+1)    | Agilité +1 (+2); courte portée        |
+| Infanterie        | +4     | +0         | Athlétisme, Corps à Corps, Endurance    | 3 (4) · MA -2 · Enc 0 (1)       | Athéltisme +1 (+2) | —                                     |
+| Ingénieurs        | +2     | +3         | Art militaire, Corps à Corps, Endurance | 2 (5) · MA -1 (-3) · Enc 0 (2)  | Athlétisme -1 (+0) | —                                     |
+| Marins            | +4     | +0         | Agilité, Corps à Corps, Vigilance       | 0 (2) · MA 0 (-1) · Enc 0       | Athlétisme +1 (+2) | —                                     |
+| Mercenaires       | +1†    | +3         | Athlétisme, Corps à Corps, Endurance    | 4 (5) · MA -2 (-3) · Enc 1 (2)  | Athlétisme +1 (+3) | —                                     |
+| Navires de Guerre | +7     | +0         | Corps à Corps, Tir, Vigilance           | 5 (10) · MA — · Enc —           | Athlétisme +1 (+4) | Agilité +1 (+3); longue portée        |
+| Paysans conscrits | +0†    | +6         | Dressage, Survie, Vigilance             | 0 (2) · MA 0 (-1) Enc 0 (0)     | Athlétisme -1 (+0) | Athlétisme -1 (+0); courte portée     |
+| Pillards          | +3     | +3         | Agilité, Corps à Corps, Endurance       | 2 (5) · MA -1 (-2) · Enc 0 (2)  | Athlétisme +1 (+2) | —                                     |
+| Soutien           | +2     | +3         | Dressage, Endurance, Soins              | 0 (2) · MA 0 (-1) · Enc 0       | Athlétisme -1 (+0) | —                                     |
+| Spéciale          | +4     | +0         | Trois au choix                          | 2 (6) · MA -1 (-3) · Enc 0 (2)  | Athlétisme (+1)    | Agilité (+1); courte ou longue portée |
+
+	
