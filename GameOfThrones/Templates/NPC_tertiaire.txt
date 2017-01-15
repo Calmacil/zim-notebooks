@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T17:26:33+01:00
+
+====== NPC tertiaire ======
+Créé le dimanche 15 janvier 2017
+
+|                                                        Profil                                                         |
+|:---------------------------------------------------------------------------------------------------------------------:|
+|                                             Compétences (//Spécialités//)                                             |
+| Défense 6 · Santé 6\nDéfense d’intrigue 6 · Sang-froid 6\nArmure: VA x, MA x\nEncombrement x · Déplacement 4 (Sprint) |
+
+Ici quelques notes au cas ou
+
+@npc @tertiaire

@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T17:36:53+01:00
+
+====== NPC standard ======
+Created dimanche 15 janvier 2017
+
+| Compétences | Valeurs | Spécialités |
+|:-----------:|:-------:|:-----------:|
+|             |         |             |
+
+
+|          Profil de rencontre           |
+|:--------------------------------------:|
+| Défense de Combat · Défense d’Intrigue |
+|           Santé · Sang-froid           |
+|                Destinée                |
+|            **Avantages** :             |
+|             **Défauts** :              |
+|         Armure : VA x · MA -x          |
+
+
+| Armes | Jet d’attaque | Dégâts | Qualités |
+|:------|:--------------|:-------|:---------|
+|       |               |        |          |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+
+@npc @primaire @secondaire

@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T17:42:37+01:00
+
+====== Maison noble ======
+Devise
+Blason
+
+| ÉTAPE | Défense | Influence | Loi | Population | Puissance | Richesse | Territoire |
+|:------|:--------|:----------|:----|:-----------|:----------|:---------|:-----------|
+|       |         |           |     |            |           |          |            |
+
+
+===== Patrimoine =====
+
+==== Défense ====
+Forteresse principale de la famille, éventuellement les autres
+
+==== Influence ====
+Héritiers: 20 fils aîné, 10 second fils ou fille aînée, 5 les autres. Statut Max -1, Max -2, Max -3
+
+==== Loi et Population ====
+Seulement des modificateurs de jets d’intendance. La population est dépensable pour certains trucs.
+
+| Valeur | Modificateur de Loi | Modificateur de Population |
+|--------|---------------------|----------------------------|
+| 0      | -20                 | -10                        |
+| 1-10   | -10                 | -5                         |
+| 11-20  | -5                  | 0                          |
+| 21-30  | -2                  | +1                         |
+| 31-40  | -1                  | +3                         |
+| 41-50  | 0                   | +1                         |
+| 51-60  | +1                  | 0                          |
+| 61-70  | +2                  | -5                         |
+| 71+    | +5                  | -10                        |
+
+
+==== Puissance ====
+Noter ici les troupes et les vassaux.
+
+==== Richesse ====
+Patrimoine de richesse: septuaires, mestres…
+
+==== Territoires ====
+Définir les domaines
+@maison
