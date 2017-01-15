@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:42:23+01:00
+
+====== Garde ======
+|                                                                      Profil                                                                      |
+|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                        Athlétisme 4, Corps à corps 4 (//Armes d’hast 1B//), Endurance 3, Vigilance 3 (//Observation 1B//)                        |
+| Défense 9 (6 en armure) · Santé 9\nDéfense d’intrigue 7 · Sang-froid 6\nCotte de mailles: VA 5, MA -3\nEncombrement 2 · Déplacement 3 (Sprint 9) |
+|                                        Hallebarde · 4D · 7 dégâts · Deux mains, Encombrante 1, Puissante                                         |
+
+Les gardes sont fort répandus dans les manoirs et châteaux des seigneurs, et ils assurent la sécurité des familles nobles. Ils représentent les membres du guet municipal, comme les manteaux d’or de Port-Réal, les sentinelles et les fantassins. Vous pouvez échanger une ou deux des compétences de ce profil contre d’autres, et l’équiper d’armes et d’une armure différentes.
+
+@npc @tertiaire

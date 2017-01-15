@@ -9,6 +9,7 @@ Creation-Date: 2017-01-15T22:43:19+01:00
 | Défense 6 (4 en Armure) · Santé 6\nDéfense d’intrigue 6 · Sang-froid 6\nArmure: VA 5, MA -2\nEncombrement 2 · Déplacement 4 (Sprint 16) |
 |                                  Hache de bataille · 3D + 1B · Dégâts 2 (3 à deux mains) · Polyvalente                                  |
 
-Ici quelques notes au cas ou
+Depuis la Fraternité Bois-du-Roi de jadis jusqu’aux sauvageons qui vivent derrière le mur, bandits et brigands rôdent dans le pays et s’en prennent aux voyageurs. La plupart des bandits sont des hommes — et parfois des femmes — réunis en groupes désorganisés, qui n’attaquent que quand ils sont en surnombre par rapport à leur proie. S’ils se heurtent à une résistance un peu trop rude, ils ne mettent pas longtemps à s’enfuir.
+Ce profil peut être utilisé pour les brigands ordinaires et autres criminels, qu’il s’agisse de pillards des clans des montagnes de la Lune, de maraudeurs fer-nés ou de sauvageons.
 
 @npc @tertiaire

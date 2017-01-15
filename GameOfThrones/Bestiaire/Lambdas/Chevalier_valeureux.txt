@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:35:01+01:00
+
+====== Chevalier valeureux ======
+|                                                                                           Profil                                                                                           |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3, Art militaire 3, Athlétisme 3, Corps à corps 5 (//Boucliers 1B, Lames longues 2B, Lances 2B//), Dressage 3 (//Équitation 2B//), \nEndurance 4, Statut 4, Vigilance 3, Volonté 3 |
+|                   Défense 9 (3 en armure, +4 bouclier) · Santé 12\nDéfense d’intrigue 8 · Sang-froid 9\nHarnois: VA 10, MA -6\nEncombrement 3 · Déplacement 2 (Sprint 4)                   |
+|                                                                       Épée longue · 5D+2B · 4 dégâts · Perforante 2                                                                        |
+|                                            Lance de guerre · 5D+2B · 7 dégâts · Empalement, Encombrante 2, Hargneuse, Lente, Montée, Puissante                                             |
+|                                                                Grand bouclier · 5D · 1 dégât · Défensive +4, Encombrante 1                                                                 |
+|                                                    Lance de joute · 5D+1B · 6 dégâts · Allonge, Encombrante 1, Lente, Montée, Puissante                                                    |
+
+Un valeureux chevalier mérite son nom en termes de capacité, sinon par son comportement honorable. Certains valeureux chevaliers sont tdes nsobles dignes du titre, tendis que d’autres ne sont que des bouchers et des brutes. Quoi qu’il en soit, ils représentent de redoutables adversaires dans les lices ou sur le champ de bataille.
+
+@npc @tertiaire

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:10:17+01:00
+
+====== Chevalier ======
+|                                                                        Profil                                                                         |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Agilité 3, Art militaire 3, Athlétisme 3, Corps à corps 4 (//Lames longues 2B, Lances 2B//), Dressage 2 (//Équitation 1B//), Endurance 3, Statut 3   |
+| Défense 8 (5 en armure, +2 bouclier) · Santé 9\nDéfense d’intrigue 6 · Sang-froid 6\nCrevisse: VA 7, MA -3\nEncombrement 3 · Déplacement 3 (Sprint 9) |
+|                                                     Épée longue · 4D+2B · 4 dégâts · Perforante 2                                                     |
+|                                                     Lance · 4D+2B · 3 dégâts · Deux mains, Rapide                                                     |
+|                                                        Bouclier · 3D · 1 dégât · Défensive +2                                                         |
+|                                 Lance de joute · 4D+1B · 5 dégâts · Allonge, Encombrante 1, Lente, Montée, Puissante                                  |
+
+Ce chevalier est relativement jeune, inexpérimenté. En tout cas, il ne sort pas du lot : ce peut être un noble qui a été adoubé dans sa jeunesse, mais qui n’a pas vraiment progressé. Ce personnage peut être une épée lige d’une maison noble ou un chevalier errant mineur quasi inconnu.
+
+@npc @tertiaire

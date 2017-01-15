@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:48:33+01:00
+
+====== Manteaux d’or ======
+|                                                                   Profil                                                                   |
+|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| Athlétisme 3, Connaissances 2 (//Connaissance de la rue 1B//), Corps à corps 3 (//Lames longues 2B ou Lances 2B//), Vigilance 3, Volonté 3 |
+|   Défense 8 (6 en armure) · Santé 6\nDéfense d’intrigue 7 · Sang-froid 9\nArmure: VA 5, MA -2\nEncombrement 3 · Déplacement 3 (Sprint 9)   |
+|                                               Épée longue · 3D+2B · 4 dégâts · Perforante 2                                                |
+|                                               Lance · 3D+1B · 3 dégâts · Deux mains, Rapide                                                |
+
+Les manteaux d’or sont des membres du Guet de Port-Réal. Ils portent des capes dorées et des disques dorés rivetés à leur armure, et sont généralement équipés de lances à pointe de fer. Un manteau d’or vétéran peut avoir un rang supplémentaire en Vigilance ou en Corps à corps, ou encore une Connaissance ou une spécialité Connaissance de la rue plus élevée. Les officiers ont un rang d’Art militaire plus élevé car ils ont l’habitude de commander aux hommes. Les manteaux d’or sont rarement seuls : ils travaillent généralement en duo ou en escouades de quatre à six, patrouillant dans les rues de la ville.
+
+@npc @tertiaire

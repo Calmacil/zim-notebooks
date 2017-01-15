@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:46:20+01:00
+
+====== Gens du peuple ======
+|                                                          Profil                                                          |
+|:------------------------------------------------------------------------------------------------------------------------:|
+|                         Art militaire 1, Corps à corps 1, Statut 1, Survie 2 (//Fourrageur 1B//)                         |
+| Défense 6 · Santé 6\nDéfense d’intrigue 5 · Sang-froid 6\nVêtements: 0, MA 0\nEncombrement 0 · Déplacement 4 (Sprint 16) |
+
+Ici quelques notes au cas ou
+
+@npc @tertiaire

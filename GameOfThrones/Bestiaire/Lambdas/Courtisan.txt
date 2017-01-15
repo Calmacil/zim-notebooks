@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:06:35+01:00
+
+====== Courtisan ======
+|                                                           Profil                                                            |
+|:---------------------------------------------------------------------------------------------------------------------------:|
+|                      Duperie 3 (//Bluff 1B//), Ingéniosité 3, Statut 4, Vigilance 2 (//Empathie 1B//)                       |
+| Défense 6 · Santé 6\nDéfense d’intrigue 9 · Sang-froid 6\nVêtements: VA 0, MA 0\nEncombrement 0 · Déplacement 4 (Sprint 16) |
+
+Les courtisans sont des hoberaux et nobles de rang inférieur qui composent la suite d’un seigneur : chevaliers mineurs, émissaires de pays lointains, dames de compagnie, prétendants et autres individus de qualité. Les courtisans jouent au jeu des trône avec plus ou moins de bonheur, mais ce sont des sources de rumeurs et d’intrigues très utiles.
+
+@npc @tertiaire

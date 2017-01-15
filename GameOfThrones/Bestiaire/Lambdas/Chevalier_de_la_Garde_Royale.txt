@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:18:22+01:00
+
+====== Chevalier de la Garde Royale ======
+|                                                                                           Profil                                                                                          <|
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 2, Art militaire 3, Athlétisme 4, Corps à corps 5 (//Boucliers 2B, Lames longues 2B, Lances 2B//), Dressage 3 (//Équitation 2B//), Endurance 4, Statut 5,\n Vigilance 3, Volonté 3 |
+|                Défense 9 (3 en armure, +4 avec bouclier) · Santé 12\nDéfense d’intrigue 10 · Sang-froid 9\nHarnois: VA 10, MA -6\nEncombrement 3 · Déplacement 2 (Sprint 4)                |
+|                                                                       Épée longue · 5D+2B · 5 dégâts · Perforante 2                                                                        |
+|                                            Lance de guerre · 5D+2B · 7 dégâts · Empalement, Encombrante 2, Hargneuse, Lentet, Montée, Puissante                                            |
+|                                                              Grand bouclier · 5D+1B · 2 dégâts · Défensive +4, Encombrante 1                                                               |
+|                                                    Lance de joute · 5D+1B · 6 dégâts · Allonge, Encombrante 1, Lente, Montée, Puissante                                                    |
+
+Les parangons de la chevalerie sont les membres de la Garde Royale. Vous pouvez utiliser ce profil pour la plupart d’entre eux. Modifiez les compétences et spécialités pour distinguer des chevaliers spécifiques.
+
+@npc @tertiaire

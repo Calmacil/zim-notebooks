@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T23:28:38+01:00
+
+====== Chevalier Errant ======
+|                                                                               Profil                                                                               |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                            Athlétisme 3, Corps à corps 4 (//Lames longues 1B, Lances 1B//), Dressage 3                                             |
+| Défense 7 (4 en armure, +4 avec bouclier) · Santé 9\nDéfense d’intrigue 6 · Sang-froid 6\nCotte de mailles: VA 5, MA -3\nEncombrement 2 · Déplacement 3 (Sprint 9) |
+|                                                           Épée longue · 4D+2B · 4 dégâts · Perforante 2                                                            |
+|                                Lance de guerre · 4D+1B · 7 dégâts · Empalement, Encombrante 2, Hargneuse, Lente, Montée, Puissante                                 |
+|                                                    Grand bouclier · 4D · 1 dégât · Défensive +4, Encombrante 1                                                     |
+|                                        Lance de joute · 4D+1B · 6 dégâts · Allonge, Encombrante 1, Lente, Montée, Puissante                                        |
+
+Les chevaliers errants sont des soldats sans terre qui ont pris les vœux de chevalier mais doivent encore vendre leurs épées à des seigneurs, à d’autres chevaliers fieffés, ou à qui veut les engager. La plupart des gens les considèrent avec mépris, car ils sont souvent d’origine non noble. On trouve souvent les chevaliers errants en compagnie des seigneurs de rang inférieur, des princes marchands et d’autres personnages de rang moyen.
+
+@npc @tertiaire
