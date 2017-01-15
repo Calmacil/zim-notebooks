@@ -3,7 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-01-15T17:36:53+01:00
 
 ====== NPC standard ======
-Created dimanche 15 janvier 2017
 
 | Compétences | Valeurs | Spécialités |
 |:-----------:|:-------:|:-----------:|

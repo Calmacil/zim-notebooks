@@ -5,3 +5,19 @@ Creation-Date: 2017-01-15T18:25:13+01:00
 ====== Création de maisons ======
 Created dimanche 15 janvier 2017
 
+===== Modificateurs de couronnes =====
+| Couronne                 | Défense | Influence | Loi | Population | Puissance | Richesse | Territoire |
+|:-------------------------|:--------|:----------|:----|:-----------|:----------|:---------|:-----------|
+| Port-Réal                | +5      | -5        | +20 | +5         | -5        | -5       | -5         |
+| Peyredragon              | +20     | -5        | +5  | -          | -         | -5       | -5         |
+| Les Îles de Fer          | +10     | -5        | -   | -          | +10       | -        | -5         |
+| Les Terres de l’Ouest    | -5      | +10       | -5  | -5         | -         | +20      | -5         |
+| Les Terres de l’Orage    | +5      | -         | +10 | -5         | +5        | -        | -5         |
+| Les Montagnes de la Lune | +20     | +10       | -10 | -5         | -         | -        | -5         |
+| Le Nord                  | +5      | +10       | -10 | -5         | -5        | -5       | +20        |
+| Le Conflans              | -5      | -5        | -   | +10        | 0         | +5       | +5         |
+| Le Bief                  | -5      | +10       | -5  | +5         | -         | +5       | -          |
+| Dorne                    | -       | -5        | -5  | -          | +10       | -        | +10        |
+
+
+

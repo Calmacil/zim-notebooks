@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T22:43:19+01:00
+
+====== Bandit ======
+|                                                                 Profil                                                                  |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|                               Corps à corps 3 (//Haches 1B//), Discrétion 4 (//Furtivité 1B//), Survie 3                                |
+| Défense 6 (4 en Armure) · Santé 6\nDéfense d’intrigue 6 · Sang-froid 6\nArmure: VA 5, MA -2\nEncombrement 2 · Déplacement 4 (Sprint 16) |
+|                                  Hache de bataille · 3D + 1B · Dégâts 2 (3 à deux mains) · Polyvalente                                  |
+
+Ici quelques notes au cas ou
+
+@npc @tertiaire

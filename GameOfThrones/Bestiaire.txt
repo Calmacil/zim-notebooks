@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T22:24:15+01:00
+
+====== Bestiaire ======
+
+===== Personnages principaux =====
+Les personnages principaux sont créés selon les règles de créa standard. Ils peuvent prendre des Lésions, des Blessures et des Frustrations. Bonus de 1d6 × 10 xp histoire de, pas de limitations sur les Attributs.
+
+===== Personnages secondaires =====
+* Choisir la compétence la plus importante et lui mettre le rang 5
+* Choisir deux autres compétences au rang 4
+* Choisir quatre compétences au rang 3
+* Choisir 4 spécialités qui vaudront chacune la moitié de leur valeur de compétence associée
+* Calcul des autres valeurs chiffrées: Défenses de Combat et d’Intrigue, Santé, Sang-froid
+* Équiper le personnage
+* Trouver une caractéristique physique et un trait de personnalité qui permettront d’interpréter le personnage
+
+La plupart des personnages secondaires n’ont ni avantages ni défaut, et aucun n’a de points de destinée.
+Ils peuvent subir des lésions et des frustrations, mais pas des blessures.
+
+===== Personnages Tertaires =====
+* Choisir une ou deux compétences au rang 3 ou 4
+* Si le rang 4 a été assigné, choisir deux autres compétences au rang 3
+* Choisir deux ou trois spécialités à 1B
+* Calcul des autres valeurs chiffrées: Défenses de Combat et d’Intrigue, Santé, Sang-froid
+* Équiper le personnage comme il se doit
+
+Les tertiaires ne subissent ni lésions, ni blessures, ni frustrations. Pas de Points de Destin, ni d’Avantages ou de Défauts.

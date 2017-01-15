@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-15T22:37:02+01:00
+
+====== Assassin ======
+
+|                                                                         Profil                                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                            Agilité 3, Corps à corps 4 (//Lames courtes 1B//), Discrétion 4 (//Furtivité 1B//), Endurance 3                             |
+| Défense 7 (6 en armure) · Santé 6\nDéfense d’intrigue 6 · Sang-froid 6\nArmure de cuir souple: VA 2, MA -1\nEncombrement 0 · Déplacement 4 (Sprint 16) |
+|                                                         Stylet · 4D · 3 dégâts · Perforante 2                                                          |
+
+Les dagues à vendre sont dtes instruments utiles pour éliminer rivaux et ennemis quand une confrontation directe est impossible. Bien des assassins sont des hommes et des femmes désespérés qui tuent pour de l’argent dans l’espoir d’arriver à joindre les deux bouts. D’autres sont membres de sinistres organisations, comme les Sans-Visages de Braavos et les Navrés de Qarth. Vous trouverz ici le profil du tueur à gages standard. Les Sans-visages et les Navrés ont un éventail de talents et de compétences plus large, ce qui en fait des personnages secondaires idéaux.
+Les assassins sont généralement utilisés lors des scènes de combat. Vous pouvez aussi vous servir d’un assassin pour une scène d’intrigue, en particulier s’il s’agit td’un empoisonneur. Dans ce cas, servez-vous plutôt du profil du courtisan.
+
+@npc @tertiaire
