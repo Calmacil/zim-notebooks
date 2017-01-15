@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-16T00:05:43+01:00
+
+====== Serviteur ======
+|                                                           Profil                                                            |
+|:---------------------------------------------------------------------------------------------------------------------------:|
+|        Art militaire 1, Corps à corps 1, Discrétion 2 (//Caméléon 2B//), Statut 1, Vigilance 2 (//Observation 1B//)         |
+| Défense 6 · Santé 6\nDéfense d’intrigue 5 · Sang-froid 6\nVêtements: VA 0, MA 0\nEncombrement 0 · Déplacement 4 (Sprint 16) |
+
+Ce profil est associé aux domestiques omniprésents dans les maisons des Sept Couronnes. Ils ont une grande capacité à remarquer de petits détails quand personne ne pense qu’s observent ou écoutent, et ils passent souvent inaperçus dans leur environnement habituel.
+
+@npc @tertiaire

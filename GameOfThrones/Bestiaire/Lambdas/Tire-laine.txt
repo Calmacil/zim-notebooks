@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-16T00:07:45+01:00
+
+====== Tire-laine ======
+|                                                                          Profil                                                                           |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Connaissance 2 (//Connaissance de la rue 2B//), Corps à corps 3 (//Lames courtes 1B//), Discrétion 2 (//Furtivité 2B//), Duperie 3, Statut 1, Vigilance 3 |
+|                Défense 7 · Santé 6\nDéfense d’intrigue 6 · Sang-froid 6\nVêtements: VA 0, MA 0\nEncombrement 9 · Déplacement 4 (Sprint 16)                |
+|                                                        Poignard · 3D+1B · 1 dégât · Secondaire +2                                                         |
+
+Tire-laine, brigand, cambrioleur… Quel que soit leur nom, Port-Réal et la plupart des autres villes ont affaire à des hommes désespérés prêts à molester ou à tuer pour quelques pièces, voire par simple caprice. Les tire-laine voyagent généralement en bande, bien que certains préfèrent travailler seuls. Ce sont des lâches qui ne se battent que s’ils sont certains de pouvoir l’emporter. Sinon, ils fuient pour pouvoir continuer à voler un autre jour.
+
+@npc @tertiaire

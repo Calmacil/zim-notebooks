@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-16T00:11:28+01:00
+
+====== Aigles ======
+Ces grands oiseaux de proie volent à haute altitude et rôdent dans les aires des montagnes de Crocgivre des deux côtés du Mur. Les aigles ne s’en prennent aux humains que si leur nid est menacé, s’ils ont été formés pour la guerre ou s’ils y sont poussés par un zoman.
+|                                                                             Profil                                                                             |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Vivacité 2B//), Athlétisme 2 (//Vol 2B//), Corps à corps 3,\nIngéniosité 1, Survie 3 (//Chasse 2B//), Vigilance 4(//Observation 2B//),\nVolonté 3 |
+|                                 Défense 10 · Santé 6\nArmure naturelle : VA 0, MA 9\nEncombrement 9 · Déplacement 1 (8 en vol)                                 |
+|                                                                    Bec · 3D · Dégâts 2 · –                                                                     |
+|                                                                   Serres · 3D · Dégâts 2 · –                                                                   |
+
+* **Serres Aveuglantes**: Un aigle qui obtient au moins deux degrés de réussite lors d’une attaque de serres aveugle momentanément son adversaire. Celui-ci subit un malus de -2D à tous les tests et rate automatiquement ses tests de Tir jusqu’à la fin du combat. Un aigle qui obtient quatre degrés de réussite ou plus aveugle sa cible de manière permanente, lui infligent le défaut Handicap sensoriel.
+
+@npc @tertiaire @créature

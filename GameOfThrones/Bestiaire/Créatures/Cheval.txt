@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-16T00:21:44+01:00
+
+====== Cheval ======
+Les habitants de Westeros domestiquent des chevaux pour en faire des bêtes de somme, des destriers de guerre et des animaux domestiques. On en trouve donc partout dans les Sept Couronnes. Étant donné leur importance, il existe des chevaux de toute taille et tde diverses formes, depuis les destriers des chevaliers aux tournois et les coursiers utilisés au combat jusqu’aux simples rosses appréciées pour leur allure sûre.
+
+===== Canasson =====
+|                                                                                                Profil                                                                                                 |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Vivacité 1B//), Athlétisme 4 (//Course 2B, Force 2B, Saut 1B//), Corps à corps 3, Endurance 5 (//Résilience 2B, Vigueur 3B//), Ingéniosité 1, Vigilance 3(//Observation 3B//), Volonté 3 |
+|                                                                  Défense 11 · Santé 12\nArmure naturelle : VA 0, MA 0\nDéplacement 8                                                                  |
+|                                                                                        Morsure · 3D · Dégâts 4                                                                                        |
+|                                                                                        Sabots · 3D · Dégâts 6                                                                                         |
+
+
+===== Coursiers =====
+|                                    Profil                                    |
+|:----------------------------------------------------------------------------:|
+|                                 Compétences                                  |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                    Armes                                     |
+
+
+===== Coursier des sables =====
+|                                    Profil                                    |
+|:----------------------------------------------------------------------------:|
+|                                 Compétences                                  |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                    Armes                                     |
+
+
+===== Destrier =====
+|                                    Profil                                    |
+|:----------------------------------------------------------------------------:|
+|                                 Compétences                                  |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                    Armes                                     |
+
+
+===== Mule =====
+|                                    Profil                                    |
+|:----------------------------------------------------------------------------:|
+|                                 Compétences                                  |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                    Armes                                     |
+
+
+===== Palefroi =====
+|                                    Profil                                    |
+|:----------------------------------------------------------------------------:|
+|                                 Compétences                                  |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                    Armes                                     |
+
+
+===== Percheron =====
+|                                    Profil                                    |
+|:----------------------------------------------------------------------------:|
+|                                 Compétences                                  |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                    Armes                                     |
+
+
+===== Poney =====
+|                                       Profil                                       |
+|:----------------------------------------------------------------------------------:|
+|                                    Compétences                                    |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
+|                                       Armes                                        |

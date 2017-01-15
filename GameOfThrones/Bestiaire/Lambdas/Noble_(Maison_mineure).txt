@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-16T00:02:00+01:00
+
+====== Noble (Maison mineure) ======
+|                                                                       Profil                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                 Connaissance 2 (//Éducation 1B//), Corps à corps 3 (//Lames longues 2B//), Statut 3 (//Bienséance 2B//), Volonté 3                 |
+| Défense 6 (4 en armure) · Santé 6\nDéfense d’intrigue 7 · Sang-froid 9\nArmure de mailles: VA 4, MA -2\nEncombrement 1 · Déplacement 4 (Sprint 15) |
+|                                                         Épée longue · 3D+2B · 3 dégâts · —                                                         |
+
+Il s’agit là de l’exemple type de rejeton d’une maison noble mineure. Dans le cas d’une dame, on substitue Persuasion 3 (//Charme 2B//) à Corps à corps (« La courtoisie est l’armure des dames », après-tout). Un courtisan qui a négligé l’étude des armes pour se consacrer à l’étiquette peut faire de même. Un membre de haut rang de la maison peut avoir un Statut de rang 4 ou 5, ce qui accroît sa Défense d’Intrigue en conséquence. Les spécialités de Corps à corps, l’armure et les armes varient naturellement en fonction des maisons.
+
+@npc @tertiaire

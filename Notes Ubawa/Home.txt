@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-12T21:43:20+01:00
+
+====== Home ======
+Created jeudi 12 janvier 2017
+
+@tag
+@blabla
+@ohsuper
+@oh_super
+
+[ ] apprendre Zim
+[ ] débugger la __tagbar__
+| Sandor Clegane                                                 |
+|----------------------------------------------------------------|
+| **Compétences**: Athlétisme 5, Endurance 6 (//Résilience 4B//) |
+| Défense 9, Défense intr. 6, Santé 18, Sang-froid 6             |
+
