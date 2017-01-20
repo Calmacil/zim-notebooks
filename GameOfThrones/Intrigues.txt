@@ -8,3 +8,19 @@ Creation-Date: 2017-01-20T13:42:19+01:00
 Date 289, 9 ans avant le début des bouquins
 Les Greyjoy attaquent Port Lannis, puis le Nord, et tentent de… TODO lire l’histoire
 Termine par l’invasion de Pyke par le Trone de Fer, les Lannister et les Nordiens
+
+==== An 289 ====
+
+=== Port-Lannis et Salvemer ===
+* [[Bestiaire:Personnages:Iles de Fer:BalonGreyjoy|Balon Greyjoy]], seigneur des Îles de Fer depuis 6 ans, se proclame **Roi des Îles de Fer.** Il est couronné par [[Bestiaire:Personnages:Iles_de_Fer:Tarl|Tarle de Trois fois Noyé]], un prêtre du Dieu Noyé.
+* [[Bestiaire:Personnages:Iles de Fer:BalonGreyjoy|Balon]] lance une attaque surprise sur [[Lieux:Ouest:PortLannis|Port Lannis]], brûlant l’ensemble de la flotte de [[Bestiaire:Personnages:Ouest:TywinLannister|Lord Tywin]]. L’attaque est planifiée par [[Bestiaire:Personnages:Iles de Fer:EuronGreyjoy|Euron]], son frère, et dirigée par son autre frère [[Bestiaire:Personnages:Iles de Fer:VictarionGreyjoy|Victarion]], Seigneur Capitaine de la Flotte de Fer.
+* Sa victoire permet à [[Bestiaire:Personnages:Iles de Fer:BalonGreyjoy|Balon]] de lancer une seconde attaque sur [[Lieux:Conflans:Salvemer|Salvemer]], sous le commandement de son fils aîné [[Bestiaire:Personnages:Iles de Fer:RodrikGreyjoy|Rodrik]]. L’assaut est toutefois mis en déroute, Rodrik tué par [[Bestiaire:Personnages:Conflans:JasonMallister|Jason Mallister]] et la flotte repoussée dans la [[Lieux:IlesDeFer:BaieDuFerNé|Baie du Fer Né]].
+* [[Bestiaire:Personnages:Iles de Fer:GermundBotley|Germund Botley]] s’approprie une cuirasse dorée volée à un capitaine Lannister quelconque
+* Le père de [[Bestiaire:Personnages:Ouest:PodrickPayne|Podrick Payne]] meurt durant cette première phase des combats.
+
+=== La contre-attaque du Trône de Fer ===
+* [[Bestiaire:Personnages:Couronne:StannisBaratheon|Stannis Baratheon]], Maître des Navires, attaque la flotte de [[Bestiaire:Personnages:Iles de Fer:VictarionGreyjoy|Victarion]] au large de [[Lieux:Ouest:BelleIle|Belle Île]] à l’aide de la Flotte Redwyne, de la Flotte Royale et de vaisseauxs de Villevieille. [[Bestiaire:Personnages:Iles de Fer:AeronGreyjoy|Aeron Greyjoy]] est capturé et termine la guerre dans les geôles de [[Lieux:Ouest:CastralRoc|Castral-Roc]].
+* Cette victoire permet à [[Bestiaire:Personnages:Couronne:RobertBaratheon|Robert]] de lancer ses forces depuis le continent, soutenu par [[Bestiaire:Personnages:Nord:EddardStark|Eddard Stark]] et [[Bestiaire:Personnages:Ouest:TywinLannister|Tywin Lannister]]. [[Bestiaire:Personnages:Ouest:GregorClegane|Ser Gregor Clegane]] est avec les forces de Tywin. [[Bestiaire:Personnages:Couronne:StannisBaratheon|Stannis]] envahit [[Lieux:IlesDeFer:GrandWyk|Grand Wyk]] pendant que ser [[Bestiaire:Personnages:Couronne:BarristanSelmy|Barristan Selmy]] tombe sur [[Lieux:IlesDeFer:VieuxWyk|Vieux Wyk.]] L’île d’[[Lieux:IlesDeFer:Orkmont|Orkmont]] est aussi conquise.
+
+=== Le Siège de Pyk ===
+todo later
