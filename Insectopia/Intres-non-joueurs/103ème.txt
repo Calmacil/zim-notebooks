@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-13T12:46:45+01:00
+
+====== 103ème ======
+Myrmide, Cultiste, Hors-caste (Exploratrice)
+
+===== Caractéristiques =====
+* **Antennes 5: **Phéromones 3, Tir 4
+* **Mandibules 5: **Mêlée 3, Prédateur 2
+* **Chitine 2: **Chrysalide 1, Résistance 2
+* **Esprit 4: **Instinct 2, Conscience 4
+* **Aile 3: **Agilité 2, Défense 3
+* **Température 3: **Activité 3, Métabolisme 2
+* **Caste 4:** Survie 3, Histoire et Religions 2
+
+==== Capacités ====
+* Force de Titan (Malus d'armure réduit d’un cran)
+* Antennes ramifiées (Fluide sur percep: +1 couleur)
+* Crache-acide (Attaque de Tir, dégâts Temp)
+
+==== Attributs secondaires ====
+* **Blessures 0/2, Impacts 0/2**
+* **Armure 3**
+* **Dégâts**
+	* Mains nues 1
+	* Crache-acide 3
+	* Épée AD 3
+* **Initiative 3**
+* **Souillure 0**
+* **Fluide 3 + souillure**
+* **Lever et porter:** 40 et 10 indrammes
+
+==== Équipement ====
+* Vêtements de voyage
+* Armure de cuir (malus annulé, Résistance au feu +1, Annule les coups à 1 impact)
+* Épée des Anciens Dieux
+* Longue-vue
+* Outils de rédaction portatifs
+* 20 quartz

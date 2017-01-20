@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-20T12:59:44+01:00
+
+====== Pierre ======
+Created vendredi 20 janvier 2017
+
+Mouche
+Archer
+
+===== Caracs  =====
+
+* Ailes 4 (Agilité 2, Défense 2)
+* Antenne 5 (Phéro 2, Tir 3)
+* Chitine 2 (Chrysalide 2, Résistance 2)
+* Esprit 3 (Conscience 2, Instinct 2)
+* Mandibule 3 (Mêlée 2, Prédateur 2)
+* Température 4 (Activité 2, Métabolisme 3)
+* Caste 3 (Tireur d’élite, Infiltration)
+
+==== Secondaires  ====
+Défense 2
+Init 2
+Fluide 5
+
+===== Capacités  =====
+* Vision de Syrphe
+* Ailé
+* Contorsion (Évo)
+* Vision Infra (Évo)
+* Frénésie
+* Téméraire
+
+===== Inventaire  =====
+* Platère (Atk 1, Dgt 2)
+* Arcin (Atk 3, Dgt 2)
+* Griffes (Atk 3, Dgt 1)
+* Armure de Cuir (Arm 2, +1 vs le feu)
