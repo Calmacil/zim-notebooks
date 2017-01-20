@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-20T13:47:32+01:00
+
+====== Khoa ======
+Created vendredi 20 janvier 2017
+
+Stick, Roublard ?
+
+===== Caracs =====
+
+* Ailes 3 (Agilité , Défense )
+* Antenne 4 (Phéro , Tir )
+* Chitine 2 (Chrysalide , Résistance )
+* Esprit 3 (Conscience , Instinct )
+* Mandibule 2 (Mêlée , Prédateur )
+* Température 4 (Activité , Métabolisme )
+* Caste 2 ()
+
+==== Secondaires ====
+Défense 
+Init 
+Fluide 
+
+===== Capacités =====
+* Piqueur-suceur
+* Ailé

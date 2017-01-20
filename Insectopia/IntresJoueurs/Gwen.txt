@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-20T13:47:14+01:00
+
+====== Gwen ======
+
+Lépide, Divin (Psyche ?)
+
+===== Caracs =====
+
+* Ailes 3  (Agilité , Défense )
+* Antenne 4  (Phéro , Tir )
+* Chitine  3 (Chrysalide , Résistance )
+* Esprit  4 (Conscience , Instinct )
+* Mandibule 3  (Mêlée , Prédateur )
+* Température 2  (Activité , Métabolisme )
+* Caste 4 ()
+
+==== Secondaires ====
+Défense 
+Init 
+Fluide 
+
+===== Capacités =====
+* Parure du Danger/de Séduction
+* Ailé

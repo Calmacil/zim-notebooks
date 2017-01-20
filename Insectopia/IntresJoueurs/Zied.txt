@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-20T13:48:21+01:00
+
+====== Zied ======
+Created vendredi 20 janvier 2017
+
+Skarab
+
+===== Caracs =====
+
+* Ailes 3 (Agilité , Défense )
+* Antenne 2 (Phéro , Tir )
+* Chitine 5 (Chrysalide , Résistance )
+* Esprit 2 (Conscience , Instinct )
+* Mandibule 4 (Mêlée , Prédateur )
+* Température 2 (Activité , Métabolisme )
+* Caste 3 (, )
+
+==== Secondaires ====
+Défense 
+Init 
+Fluide 
+
+===== Capacités =====
+* Résistance à la Souillure
+* Élytres

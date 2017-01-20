@@ -5,10 +5,10 @@ Creation-Date: 2017-01-20T12:59:44+01:00
 ====== Pierre ======
 Created vendredi 20 janvier 2017
 
-Mouche
+Syrphe
 Archer
 
-===== Caracs  =====
+===== Caracs =====
 
 * Ailes 4 (Agilité 2, Défense 2)
 * Antenne 5 (Phéro 2, Tir 3)
@@ -18,12 +18,12 @@ Archer
 * Température 4 (Activité 2, Métabolisme 3)
 * Caste 3 (Tireur d’élite, Infiltration)
 
-==== Secondaires  ====
+==== Secondaires ====
 Défense 2
 Init 2
 Fluide 5
 
-===== Capacités  =====
+===== Capacités =====
 * Vision de Syrphe
 * Ailé
 * Contorsion (Évo)
@@ -31,7 +31,7 @@ Fluide 5
 * Frénésie
 * Téméraire
 
-===== Inventaire  =====
+===== Inventaire =====
 * Platère (Atk 1, Dgt 2)
 * Arcin (Atk 3, Dgt 2)
 * Griffes (Atk 3, Dgt 1)
