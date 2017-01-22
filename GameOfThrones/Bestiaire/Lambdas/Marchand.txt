@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T14:14:29+01:00
+
+====== Marchand ======
+
+|                                                                                  Profil                                                                                   |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Connaissance 4 (//Éducation 2//), Ingéniosité 3 (//Mémoire 1//), Langue 3,\nPersuasion 4 (//Marchander 2//), Statut 3, Tir 3, Vigilance 3\n(//Observation 1//), Volonté 5 |
+|                        Défense 7 · Santé 6\nDéfense d’intrigue 7 · Sang-froid 15\Vêtements: VA 0, MA 0\nEncombrement 0 · Déplacement 4 (Sprint 16)                        |
+
+@npc @tertiaire

@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T14:09:26+01:00
+
+====== Aubergiste ======
+
+===== Masha Heddle =====
+|                                                           Profil                                                           |
+|:--------------------------------------------------------------------------------------------------------------------------:|
+|                                        Endurance 3, Persuasion 3 (//Marchander 2//)                                        |
+| Défense 6 · Santé 9\nDéfense d’intrigue 6 · Sang-froid 6\Vêtements: VA 0, MA 0\nEncombrement 0 · Déplacement 4 (Sprint 16) |
+
+
+===== Ancien mercenaire =====
+|                                                           Profil                                                           |
+|:--------------------------------------------------------------------------------------------------------------------------:|
+|                              Corps à corps 3 (//Lames longues 2//), Connaissance 3, Volonté 3                              |
+| Défense 6 · Santé 6\nDéfense d’intrigue 6 · Sang-froid 9\Vêtements: VA 0, MA 0\nEncombrement 0 · Déplacement 4 (Sprint 16) |
+
+
+@npc @tertiaire

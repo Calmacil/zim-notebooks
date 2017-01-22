@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T13:32:39+01:00
+
+====== Géant ======
+On pense que les géants ont disparu il y a bien longtemps, si longtemps que la plupart des gens les considèrent comme des êtres de légende et rien de plus. Des géants vivent encore à Westeros, mais ils sont limités aux terres situées au-delà du Mur. Un géant a l’apparence et les proportions d’un homme, mais mesure environ 3m60. Son corps est recouvert de poils drus, et il émane de lui une odeur aigre, une puanteur caractéristique. Les géants ont un torse en forme de poire, le bas étant deux fois plus large que le haut. Ils ont de longs bras qui pendent bien en dessous de leur taille et se déplacent sur des jambes courtaudes et épaisses terminées par des pieds larges et en dedans. Leurs visages aplatis brutaux sont pourvus d’yeux minuscules presque cachés derrière des replis de chair calleuse.
+Les géants se fient à leur excellent odorat pour compenser leur vue médiocre. S’ils tiennent plus des animaux que des humains, ils se servent cependant d’outils et sont capable de parler, généralement la vieille langue des Premiers Hommes. Les géants ont tendance à rester isolés tant qu’ils n’ont aucune raison de mettre de côté leur méfiance à l’égard d’autrui et de se joindre aux hommes.
+|                                                                                                                                            Profil                                                                                                                                             |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 2 (//Vivacité 1//), Athlétisme 5 (//Force 3, Jet 2//), Corps à corps 5\n(//Casse-tête 1//), Dressage 3 (//Exercices 1//), Endurance 5\n(//Résilience 2//), Langue 2 (//Vieille langue//), Survie 4 (//Fourrageur 1//,\n//Orientation 1, Pistage 2//), Vigilance 3 (//Observation 1//) |
+|                                                                                     Défense 10 · Santé 15\nDéfense d’intrigue V · Sang-froid 6\nArmure naturelle : VA 4, MA 0\nDéplacement 4 (Sprint 16)                                                                                      |
+|                                                                                                                  Immense gourdin · 5D + 1B · Dégâts 6 · Fracassante 2, Lente                                                                                                                  |
+
+* **Créature du froid**: Les géants peuvent vivre confortablement dans le froid le plus extrême.

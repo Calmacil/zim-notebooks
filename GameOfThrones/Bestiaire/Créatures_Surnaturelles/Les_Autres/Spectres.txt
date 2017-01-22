@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T13:58:37+01:00
+
+====== Spectres ======
+Quand un Autre tue un humain ou un animal, sa victime est condamnée à se relever en tant qu’esclave mort-vivant du marcheur blanc. Appelés spectres ou « créatures », ces corps deviennent d’une pâleur extrême, excepté pour ce qui est de leurs mains et de leurs pieds, lesquels noircissent. Ils ont des yeux bleus clairs, comme leurs créateurs. Ils n’ont pas d’odeur, mais les animaux refusent de s’en approcher. Même démembrés, les spectres continuent à vivre, leurs membres coupés étant imprégnés d’un pouvoir impie.
+* Quand un humain ou un animal est transformé en spectre, appliquez-lui les changements suivants:
+* Perte de toutes les spécialités.
+* Perte de tous les points de Destinée.
+* Perte de tous les avantages, bien que les défauts physiques demeurent, s’il y a lieu.
+* Les compétences de la créature sont modifiée comme suit:
+	* Réduisez de 1 l’Agilit et le Corps à corps
+	* Augmentez l’Athlétisme et l’Endurance de 1
+	* Résuider l’Ingéniosité au rang 1
+	* Réduisez la Langue à 0
+Les spectres ne peuvent pas effectuer de tests des compétences suivantes, et ils les ratent automatiquement: Art militaire, Connaissance, Dressage, Duperie, Larcin, Persuasion, Soins, Statut, Survie et Volonté.
+|                                              Profil                                               |
+|:-------------------------------------------------------------------------------------------------:|
+|   Agilité 1, Athlétisme 3, Corps à corps 2, Discrétion 4, Endurance 3,\nIngéniosité 1, Langue 0   |
+| Défense 6 (4 en armure) · Santé 9\nArmure de peau : VA 5, MA -2, Enc 2\nDéplacement 3 (Sprint 10) |
+|                            Griffes et dents · 2D · Dégâts 3 · Empoigne                            |
+
+* **Étreinte de la mort**: Des qu’un spectre subit une quantité de dégâts supérieure ou égale à sa Santé, il retire immédiatement la moitié de ces dégâts et subit un malus de -1D à tous les tests. Il peut désormais effectuer deux attaques par round au moyen d’une action mineure.
+* **Vulnérabilité au feu**: Toutes les attaques de feu qui touchent un spectre gagnent un degré de réussite supplémentaire. Un spectre qui subit un nombre de dégâts de feu supérieur ou égal à sa Santé est instantanément détruit.
+
+==== Coursiers des spectres ====
+|                                      Profil                                       |
+|:---------------------------------------------------------------------------------:|
+| Agilité 3, Athlétisme 5, Corps à corps 2, Endurance 5, Ingéniosité 1, Vigilance 3 |
+|        Défense 11 · Santé 15\nArmure naturelle : VA 0, MA 0\nDéplacement 8        |
+|                              Morsure · 2D · Dégâts 5                              |
+
+* **Vulnérabilité au feu**: Toutes les attaques de feu qui touchent un spectre gagnent un degré de réussite supplémentaire. Un spectre qui subit un nombre de dégâts de feu supérieur ou égal à sa Santé est instantanément détruit.

@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T13:39:28+01:00
+
+====== Les Autres ======
+Créatures de légendes, les Autres, aussi connus sous le nom de marcheurs blancs, sont une race malveillante de viles créatures liées au froid absolu. Ils ont à peu près la même forme et la même taille que des hommes, mais leurs mouvements sont étranges, et leurs corps capables de faire preuve d’une grâce et d’une vivacité inhumaines, fusant parmi les ombres et l’obscurité des nuits d’hiver. Les Autres sont grands et robustes ; leur peau a la couleur du lait et leurs yeux luisent d’un éclat bleu.
+Les marcheurs blancs adorent tuer et jouissent d’excellents talents martiaux. Quand ils engagent le combat, ils éclatent d’un rire joyeux et pervers dont le son vous glace le cœur. Au combat, ils portent d’étranges armures surnaturelles, faites de plaques qui imitent les nuances et la texture de leur environnement pour les camoufler. Ils brandissent de cruelles épées faites de la même substance, minces lames qui semblent briller d’un éclat lunaire. Leur tranchant émet une lumière spectrale quand on les manie.
+Les mortels tués par les Autres sont condamnés à se relever en tant que spectres, ignobles morts-vivants et caricatures de ce qu’ils étaient autrefois. Le changement est rapide, marqué par un bleuissement des yeux et par le noircissement des mains et des pieds. Les spectres sont loyaux envers leurs créateurs et donnent sans hésiter leur vie pour aider ce peuple mystérieux à perpétrer ses actes sinistres.
+Selon la plupart des légendes, les Autres seraient apparus pour la première fois il y a 8000 ans, durant un hiver long, rude et cruel qui aurait duré une génération entière. Ils déferlèrent sur le pays, massacrant les hommes et leurs armées. Ceux qu’ils assassinaient se relevaient pour suivre les marcheurs blancs sur leus chevaux morts-vivants. Nul homme ne pouvait les arrêter, et tous ceux qui croisaient leur chemin étaient tués, aussi jeunes et innocents fussent-ils. Les Autres finirent par être repoussés, mais par quel moyen, personne ne s’en souvient. Toutefois, le soleil, le feu et le verredragon jouèrent sans doute un rôle dans leur défaite.
+|                                                                                              Profil                                                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 7 (//Acrobaties 2, Équilibre 2, Esquive 3, Vivacité 3//),\nAthlétisme 4, Corps à corps 7 (//Lames longues 3//), Discrétion 5\n(//Furtivité 2//), Endurance 4, Ingéniosité 5, Vigilance 4 |
+|                                 Défense 15 · Santé 12\nDéfense d’intrigue 11 · Sang-froid 6\nArmure surnaturelle : VA 8, MA 0, Enc. 0\nDéplacement 5 (Sprint 25)                                 |
+|                                                         Épée surnaturelle · 7D + 3B · Dégâts 4 · Fracassante 1, Hargneuse, Perforante 4                                                          |
+
+* **Aura glaciale**: Les Autres émettent une aura de froid capable de faire paniquer les créatures vivantes. Toute créature vivante qui commence son tour de jeu dans un rayon de 10m autour d’ùn Autre doit réussir un test de Volonté //Corsé (12)// pour éviter de subir un malus de -1D à tous les tests. En cas d’échec critique, la créature doit fuir à chaque round jusqu’à ce qu’elle réussisse un autre test de Volonté. Les animaux qui ratent le test sont pris de panique et s’enfuient.
+* **Créature du froid**: Les Autres peuvent vivre confortablement dans le froid le plus extrême.
+* **Perception de la vie**: un Autre peut localiser n’importe-quelle créature vivante dans un rayon de 10m au moyen d’une action franche.
+* **Arpenteur des neiges**: Les autres ignorent le terrain traître lié à la glace et à la neige.
+* **Création de spectre**: Les humains et les animaux tués par les Autres se relèvent en tant que spectres au crépuscule. Les humains tués la nuit se relèvent 1d6 rounds plus tard.
+* **Crainte du soleil**: Les Autres ne supportent pas le soleil et subissent un malus de -1D à tous les tests quand ils sont exposés à sa lumière.
+* **Furtivité des neiges**: Les Autres bénéficient de +1D aux tests de Discrétion effectués dans la neige ou la glace. Le bonus passe à +2D la nuit.
+* **Vulnérabilité au verredragon**: Les armes faites de verredragon ignorent la VA des Autres et leur infligent Athlétisme + 6 dégâts.
+
