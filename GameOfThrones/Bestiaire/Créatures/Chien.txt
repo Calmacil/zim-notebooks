@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T10:59:09+01:00
+
+====== Chien ======
+Utilisés pour la guerre, la chasse et en tant qu’animaux de compagnie, on trouve des chiens dans toutes les localités, ainsi qu’à l’état sauvage, en meute.
+
+|                                                                                                                                  Profil                                                                                                                                   |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Esquive 1B, Vivacité 1B//), Athlétisme 3 (//Course 1B//,\n//Natation 1B, Saut 2B//), Corps à corps 3, Discrétion 3, Endurance 3\n(//Résilience 1B, Vigueur 1B//), Ingéniosité 1, Survie 3 (//Chasse 1B//,\n//Pistage 2B//), Vigilance 3 (//Observation 2B//) |
+|                                                                                                     Défense 9 · Santé 9\nArmure naturelle: VA 0, MA 0\nDéplacement  8                                                                                                     |
+|                                                                                                                          Morsure · 3D · Dégâts 3                                                                                                                          |
+

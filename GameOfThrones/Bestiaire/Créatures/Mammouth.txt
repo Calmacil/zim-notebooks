@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:50:15+01:00
+
+====== Mammouth ======
+Ces grandes créatures velues qu’on utilise comme montures ou bêtes de somme ont disparu de toutes les régions à l’€xception des confins du Nord.
+|                                                Profil                                                 |
+|:-----------------------------------------------------------------------------------------------------:|
+| Athlétisme 4 (//Force 2//), Corps à corps 3, Endurance 6 (//Vigueur 2//),\nIngéniosité 1, Vigilance 3 |
+|                  Défense 9 · Santé 18\nArmure naturelle : VA 5, MA 0\nDéplacement 4                   |
+|                                 Défenses · 3D · Dégâts 8 · Assommante                                 |
+|                               Piétinement · 3D · Dégâts 10 · Assommante                               |
+
+* **Féroce**: Un mammouth peut subir des lésions pour réduire les dégâts infligés à sa Santé.

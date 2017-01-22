@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:55:41+01:00
+
+====== Sanglier ======
+La chasse au sanglier est un passe-temps populaire dans les Sept Couronnes, un sport où le guerrier démontre sa force et son intelligence. On trouve des sangliers dans tout Westeros. Ce sont des créatures agressives, mais ils attaquent rarement les humains à moins qu’on ne les provoque.
+|                                                                                                                           Profil                                                                                                                           |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Vivacité 2//), Athlétisme 3 (//Course 1, Force 1//),\nCorps à corps 3 (//Défenses 1//), Discrétion 3, Endurance 3 (//Résilience 1//,\n//Vigueur 2//), Ingéniosité 1, Survie 4 (//Fourrageur 2//), Vigilance 3\n(//Observation 2//), Volonté 3 |
+|                                                                                             Défense 9 · Santé 9\nArmure naturelle : VA 1, MA 0\nDéplacement 6                                                                                              |
+|                                                                                                     Défenses · 3D+1B · Dégâts 4 · Hargneuse, Puissante                                                                                                     |
+
+* **Féroce**: Un sanglier peut subir des lésions pour réduire les dégâts infligés à sa Santé.

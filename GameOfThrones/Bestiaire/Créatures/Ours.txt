@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:52:36+01:00
+
+====== Ours ======
+Les ours sont omniprésents dans le nord, sur les pentes des Corcgivres, dans les Rus et dans le Bois-aux-Loups, et aucun n’est plus redouté que les ours des neiges blancs que l’on trouve au septentrion, au-delà du Mur. Les ours sont bien moins répandus dans les terres cultivées du sud. Ils restent confinés aux terres de l’Orage et, plus rarement, dans les terres de l’Ouest.
+|                                                                                                                    Profil                                                                                                                     |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 2 (//Vivacité 1//), Athlétisme 4 (//Escalade 1, Force 4//,\n//Natation 1//), Corps à corps 4, Endurance 5 (//Résilience 2//,\n//Vigueur 2//), Ingéniosité 1, Survie 5 (//Fourrageur 2, Pistage 1//),\nVigilance 3 (//Observation 2//) |
+|                                                                                      Défense 9 · Santé 15\nArmure naturelle : VA 2, MA 0\nDéplacement 5                                                                                       |
+|                                                                                                      Griffes · 4D · Dégâts 5 · Empoigne                                                                                                       |
+|                                                                                      Morsure · 4D · Dégâts 8 · Hargneuse, Lente, Perforante 1, Puissante                                                                                      |
+

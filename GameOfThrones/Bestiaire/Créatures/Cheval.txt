@@ -6,65 +6,42 @@ Creation-Date: 2017-01-16T00:21:44+01:00
 Les habitants de Westeros domestiquent des chevaux pour en faire des bêtes de somme, des destriers de guerre et des animaux domestiques. On en trouve donc partout dans les Sept Couronnes. Étant donné leur importance, il existe des chevaux de toute taille et tde diverses formes, depuis les destriers des chevaliers aux tournois et les coursiers utilisés au combat jusqu’aux simples rosses appréciées pour leur allure sûre.
 
 ===== Canasson =====
-|                                                                                                Profil                                                                                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Agilité 3 (//Vivacité 1B//), Athlétisme 4 (//Course 2B, Force 2B, Saut 1B//), Corps à corps 3, Endurance 5 (//Résilience 2B, Vigueur 3B//), Ingéniosité 1, Vigilance 3(//Observation 3B//), Volonté 3 |
-|                                                                  Défense 11 · Santé 12\nArmure naturelle : VA 0, MA 0\nDéplacement 8                                                                  |
-|                                                                                        Morsure · 3D · Dégâts 4                                                                                        |
-|                                                                                        Sabots · 3D · Dégâts 6                                                                                         |
+Les canassons sont les montures les plus courantes. Bien qu’ils fassent de bons chevaux de guerre, ils sont réservés aux chevaliers errants, écuiyers et hommes d’armes. Ils font aussi office de chevaux de selle et de bêtes de somme.
+|                                                                                                 Profil                                                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Vivacité 1B//), Athlétisme 4 (//Course 2B, Force 2B, Saut 1B//),\nCorps à corps 3, Endurance 5 (//Résilience 2B, Vigueur 3B//), Ingéniosité 1,\nVigilance 3(//Observation 3B//), Volonté 3 |
+|                                                                   Défense 11 · Santé 12\nArmure naturelle : VA 0, MA 0\nDéplacement 8                                                                   |
+|                                                                                         Morsure · 3D · Dégâts 4                                                                                         |
+|                                                                                         Sabots · 3D · Dégâts 6                                                                                          |
 
 
 ===== Coursiers =====
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
+Plus léger que le destrier et beaucoup moins coûteux, le coursier n’en reste pas moins un bel animal. Par ailleurs, il est fort et rapide.
+|                                                                                                  Profil                                                                                                  |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Vivacité 2B//), Athlétisme 4 (//Course 2B, Force 2B, Saut 2B//),\nCorps à corps 3, Endurance 4 (//Résilience 1B, Vigueur 3B//), Ingéniosité 1,\nVigilance 3 (//Observation 3B//), Volonté 3 |
+|                                                                   Défense 11 · Santé 12\nArmure naturelle : VA 0, MA 0\nDéplacement 8                                                                    |
+|                                                                                    Sabots · 3D · Dégâts 6 · Puissante                                                                                    |
+|                                                                                         Morsule · 3D · Dégâts 4                                                                                          |
 
 
 ===== Coursier des sables =====
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
+Les coursiers des sables de Dorne sont plus petits que les canassons et les coursiers ordinaires, et en peuvent donc supporter le poids d’une armure. Toutefois, ils sont rapides et capables de courir sur des distances impressionnantes. Les Dorniers aiment dire qu’ils peuvent courir jour et nuit sans jamais se fatiguer, et même s’il ne s’agit là que de vantardises, aucun animal n’est plus adapté au désert brûlant. Cette monture fine a une longue encolure et une belle tête. Sa robe est rousse, dorée, gris pâle ou noire. Quand à sa crinière, elle peut être de la même couleur ou d’une autre.
+|                                                                                                  Profil                                                                                                  |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Vivacité 3B//), Athlétisme 4 (//Course 3B, Force 1B, Saut 3B//),\nCorps à corps 2, Endurance 4 (//Résilience 2B, Vigueur 4B//), Ingéniosité 1,\nVigilance 3 (//Observation 2B//), Volonté 4 |
+|                                                                   Défense 11 · Santé 12\nArmure naturelle : VA 2, MA 0\nDéplacement 10                                                                   |
+|                                                                                          Sabots · 2D · Dégâts 4                                                                                          |
 
 
 ===== Destrier =====
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
+Les destriers sont de splendides chevaux fougueux. Grands et puissamment bâtis, ils confèrent une aura de majesté aux joutes. Ce sont habituellement les chevaux les plus précieux car ils sont bien élevés et derssés. Certains leur accordent une telle valeur qu’ils se refusent à les envoyer à la guerre, préférant alors monter un coursier.
+|                                                                                                 Profil                                                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Vivacité 1B//), Athlétisme 5 (//Course 2B, Force 2B, Saut 2B//),\nCorps à corps 3, Endurance 5 (//Résilience 2B, Vigueur 4B//), Ingéniosité 1,\nVigilance 3(//Observation 3B//), Volonté 4 |
+|                                                                   Défense 11 · Santé 15\nArmure naturelle : VA 0, MA 0\nDéplacement 6                                                                   |
+|                                                                                         Morsure · 3D · Dégâts 4                                                                                         |
+|                                                                                   Sabots · 3D · Dégâts 6 · Puissante                                                                                    |
 
 
-===== Mule =====
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
 
-
-===== Palefroi =====
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
-
-
-===== Percheron =====
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
-
-
-===== Poney =====
-|                                       Profil                                       |
-|:----------------------------------------------------------------------------------:|
-|                                    Compétences                                    |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                       Armes                                        |

@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T10:23:18+01:00
+
+====== Cheval, Suite ======
+
+Suite de la page sur les chevaux, ici c’est les chevaux de loisir
+
+===== Mule =====
+La meilleure bête de somme à Westeros. Ces animaux robustes au pied sûr sont capables de porter des charges très lourdes. Par ailleurs, ils sont moins peureux que les chevaux et n’hésitent pas à s’aventurer dans les lieux les plus étranges. Les mulets sont particulièrement appréciés dans les montagnes du Nord et le Val d’Arryn.
+|                                                                                        Profil                                                                                         |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Équilibre 1B//), Athlétisme 4 (//Force 3B//), Corps à corps 1,\nEndurance 4 (//Résilience 1B, Vigueur 3B//), Ingéniosité 1, Vigilance 3\n(//Observation 2B//), Volonté 4 |
+|                                                          Défense 10 · Santé 12\nArmure naturelle : VA 2, MA 0\nDéplacement 6                                                          |
+|                                                                                Morsure · 1D · Dégâts 4                                                                                |
+
+
+===== Palefroi =====
+Les palefrois sont des chevaux bien dressés, ce qui fait d’eux de précieux destriers, mais leur nature affable et calme ne les prédispose pas à la guerre. En fait, ce sont de bons chevaux de selle, souvent appréciés des nobles dames, dont on se sert aussi à la chasse.
+|                                                                                                   Profil                                                                                                    |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Équilibre 1B, Vivacité 2B//), Athlétisme 3 (//Force 1B, Saut 1B//),\nCorps à corps 1, Endurance 4 (//Résilience 2B, Vigueur 3B//), Ingéniosité 1,\nVigilance 3 (//Observation 2B//), Volonté 3 |
+|                                                                     Défense 10 · Santé 12\nArmure naturelle : VA 2, MA 0\nDéplacement 8                                                                     |
+|                                                                                           Morsure · 1D · Dégâts 3                                                                                           |
+
+
+===== Percheron =====
+Les percherons sont de lourds chevaux de trait appréciés des fermiers.
+|                                                                   Profil                                                                    |
+|:-------------------------------------------------------------------------------------------------------------------------------------------:|
+| Athlétisme 3 (//Force 3B//), Corps à corps 1, Endurance 4 (//Résilience 1B, Vigueur 3B//),\nIngéniosité 1, Vigilance 3 (//Observation 1B//) |
+|                                     Défense 8 · Santé 12\nArmure naturelle : VA 0, MA 0\nDéplacement 6                                      |
+|                                                           Morsure · 1D · Dégâts 3                                                           |
+
+
+===== Poney =====
+Les poneys sont de petits chevaux trapus et courts sur pattes. Souvent, ils sont réservés aux enfants des seigneurs, mais ils font plus généralement de bonnes montures de selle et bêtes de somme (notamment dans les mines).
+|                                                                                               Profil                                                                                               |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Équilibre 1B, Vivacité 1B//), Athlétisme 3 (//Force 1B//), Corps à corps 1,\nEndurance 3 (//Résilience 1B, Vigueur 2B//), Ingéniosité 1, Vigilance 3\n(//Observation 2B//), Volonté 3 |
+|                                                                 Défense 9 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 6                                                                  |
+|                                                                                      Morsure · 1D · Dégâts 3                                                                                       |
+
+
+===== Rosse =====
+Les rosses sont de petits chevaux à poils rudes que l’on trouve dans les régions montagneuses et sous les climats froids. Ils ressemblent davantage à des poneys qu’à des chevaux, mais ont le pied aussi sûr que des chèvres sur les sentiers montagnueux et glacés du Mur. Leur polyvalence fait d’eux les montures préférées de la Garde de Nuit.
+|                                                                                        Profil                                                                                         |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Équilibre 2B//), Athlétisme 3 (//Force 1B//), Corps à corps 1,\nEndurance 4 (//Résilience 2B, Vigueur 3B//), Ingéniosité 1, Vigilance 3\n(//Observation 2B//), Volonté 3 |
+|                                                           Défense 9 · Santé 9\nArmure naturelle : VA 2, MA 0\nDéplacement 5                                                           |
+|                                                                                Morsure · 1D · Dégâts 3                                                                                |
+
+

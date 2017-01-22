@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:09:16+01:00
+
+====== Lézard-Lion ======
+Vicieux reptiles que l’on trouve dans le Neck et dans d’autres régions marécageuses de Westeros, les lézards-lions sont craints, et à juste titre, pour leurs cruelles morsures.
+|                                                                                          Profil                                                                                           |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Contorsions 1, Vivacité 1//), Athlétisme 4 (//Force 2, Natation 4//),\nCorps à corps 3, Discrétion 3, Endurance 4, Ingéniosité 1,\nSurvie 3, Vigilance 3 (//Observation 2//) |
+|                                                      Défense 10 · Santé 12\nArmure naturelle : VA 3, MA 0\nDéplacement 6, Natation 8                                                      |
+|                                                                            Morsure · 3D · Dégâts 6 · Empoigne                                                                             |
+
+* **Camouflage**: Un lézard-lion bénéficie d’un bonus de +2D aux tests de Discrétion effectués en terrain marécageux.
+* **Féroce**: Un lézard-lion peput subir des lésions pour réduire les dégâts infligés à sa Santé.

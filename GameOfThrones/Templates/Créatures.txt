@@ -3,9 +3,9 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-01-16T00:20:30+01:00
 
 ====== Créatures ======
-|                                    Profil                                    |
-|:----------------------------------------------------------------------------:|
-|                                 Compétences                                  |
-| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 (8 en vol) |
-|                                    Armes                                     |
+|                              Profil                               |
+|:-----------------------------------------------------------------:|
+|                            Compétences                            |
+| Défense 0 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 1 |
+|                               Armes                               |
 

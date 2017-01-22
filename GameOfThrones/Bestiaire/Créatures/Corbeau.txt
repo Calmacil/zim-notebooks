@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:03:54+01:00
+
+====== Corbeau ======
+Piliers du réseau de communication des mestres, les corbeaux sont utilisés pour transmettre des messages dans les Sept Couronnes. Fiables et intelligents (pour des oiseaux), les corbeaux sont capables de se défendre contre d’autres oiseaux et prédateurs, et ils ont l’endurance nécessaire pour voler sur de longues distances.
+|                                                                                Profil                                                                                |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Vivacité 1//), Athlétisme 1 (//Vol 1//), Corps à corps 1,\nEndurance 1 (//Vigueur 1//), Ingéniosité 1 (//Mémoire 1//), Vigilance 3\n(//Observation 1//) |
+|                                            Défense 8 · Santé 3\nArmure naturelle : VA 0, MA 0\nDéplacement 1, ou 6 en vol                                            |
+|                                                                         Bec · 1D · Dégâts 1                                                                          |
+
+
+===== Corbeaux blancs =====
+La Citadelle de Villevieille éleve des corbeaux plus robustes, plus vifs et plus rusés, qui se distinguent par leur plumage blanc.
+|                                                                                Profil                                                                                |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Vivacité 1//), Athlétisme 2 (//Vol 2//), Corps à corps 1,\nEndurance 2 (//Vigueur 2//), Ingéniosité 2 (//Mémoire 2//), Vigilance 3\n(//Observation 1//) |
+|                                            Défense 8 · Santé 6\nArmure naturelle : VA 0, MA 0\nDéplacement 1, ou 8 en vol                                            |
+|                                                                         Bec · 1D · Dégâts 1                                                                          |
+

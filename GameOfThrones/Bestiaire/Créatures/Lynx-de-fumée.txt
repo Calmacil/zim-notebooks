@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:46:16+01:00
+
+====== Lynx-de-fumée ======
+Les lynx-de-fumée sont de grand sfélins au pelage rayé caractéristique. Leur terrain de chasse s’étend dans les montagnes de Westeros. Ces prédateurs furtifs attaquent sans provocation, et une fois sur la piste de leur prochain repas, ils abandonnent rarement la chasse.
+|                                                                                                                                            Profil                                                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 4 (//Équilibre 2, Esquive 1, Vivacité 2//), Athlétisme 4\n(//Course 2, Escalade 2, Force 1, Natation 1, Saut 2), Corps à corps 4,\nDiscrétion 5 (//Furtivité 1//), Endurance 3 (//Vigueur 1//),\nIngéniosité 1, Survie 4 (//Chasse 1, Pistage 1//), Vigilance 5\n(//Observation 2//) |
+|                                                                                                              Défense 13 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 8                                                                                                              |
+|                                                                                                                             Morsure · 4D · Dégâts 4 · Hargneuse                                                                                                                              |
+|                                                                                                                             Griffes · 4D · Dégâts 5 · Puissante                                                                                                                              |
+
+* **Charge bondissante**: Quand un lynx-de-fumée charge, il peut porter deux attaques, une avec ses griffes et une autre de morsure.
+* **Furtivité nocturne**: De nuit, un lynx-de-fumée, bénéficie d’un bonus de +1D aux tests de Discrétion.

@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-22T11:39:04+01:00
+
+====== Loup ======
+Contrairement à leurs cousins plus grands, les loups sont fort répandus et vivent en meute jusqu’au Conflans. En plus des loups, vous pouvez utiliser ce profil pour les chiens des sables de Dorne.
+|                                                                                                                                         Profil                                                                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Esquive 1, Vivacité 1//), Athlétisme 3 (//Course 1//,\n//Force 1, Natation 1, Saut 1//), Corps à corps 3, Discrétion 4\n(//Furtivité 1//), Endurance 3 (//Vigueur 1//), Ingéniosité 1,\nSurvie 4 (//Fourrageur 1, Chasse 1, Pistage 1//), Vigilance 3 (//Observation 1//) |
+|                                                                                                           Défense 9 · Santé 9\nArmure naturelle : VA 0, MA 0\nDéplacement 6                                                                                                            |
+|                                                                                                                                Morsure · 3D · Dégâts 3                                                                                                                                 |
+
+* **Renversement**: Quand un loup obtient au moins deux degrés de réussite lors d’un test de Corps à corps, il peut renoncer aux dégâts supplémentaires pour jeter sa cible à terre.
+
+===== Loup-garou =====
+Rarement aperçus au sud du Mur, les loups-garous sont de redoutables prédateurs réputés pour leur vivacité et leur brutalité. Leur simple présence suffit à rendre les humains et les animaux nerveux, et leurs hurlements glacent le sang.
+|                                                                                                                                                                        Profil                                                                                                                                                                        |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Agilité 3 (//Esquive 2, Vivacité 2//), Athlétisme 4 (//Course 3//,\n//Force 1, Natation 1, Saut 2//), Corps à corps 4, Discrétion 5\n(//Furtivité 1//), Endurance 4 (//Résilience 2, Vigueur 2//),\nIngéniosité 1 (//Mémoire 1//), Survie 5 (//Chasse 2, Fourrageur 1//,\n//Orientation 1, Pistage 1//), Vigilance 4 (//Observation 2//),\nVolonté 3 |
+|                                                                                                                                         Défense 11 · Santé 12\nArmure naturelle : VA 2, MA 0\nDéplacement 8                                                                                                                                          |
+|                                                                                                                                                    Morsure · 4D · Dégâts 5 · Hargneuse, Puissante                                                                                                                                                    |
+|                                                                                                                                                               Griffes · 4D · Dégâts 3                                                                                                                                                                |
+
+* **Renversement**: Quand un loup-garou obtient au moins deux degrés de réussite lors d’un test de Corps à corps, il peut renoncer aux dégâts supplémentaires pour jeter sa cible à terre.
+* **Charge bondissante**: Quand un loup-garou charge, il peut porter deux attaques, une avec ses griffes et une autre de morsure.
