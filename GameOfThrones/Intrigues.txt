@@ -9,6 +9,17 @@ Date 289, 9 ans avant le début des bouquins
 Les Greyjoy attaquent Port Lannis, puis le Nord, et tentent de… TODO lire l’histoire
 Termine par l’invasion de Pyke par le Trone de Fer, les Lannister et les Nordiens
 
+Maisons impliquées:
+* [[Factions:IlesDeFer:Greyjoy|Maison Greyjoy]]
+* [[Factions:Ouest:MaisonLannister|Maison Lannister]]
+* [[Factions:Conflans:MaisonMallister|Maison Mallister]]
+* [[Factions:IlesDeFer:MaisonBotley|Maison Botley]]
+* [[Factions:Ouest:MaisonPayne|Maison Payne]]
+* [[Factions:Orage:Baratheon|Maison Baratheon]]
+* [[Factions:Nord:MaisonStark|Maison Stark]]
+* [[Factions:Conflans:MaisonTully|Maison Tully]]
+* [[Factions:Ouest:MaisonClegane|Maison Clegane]]
+
 ==== An 288 ====
 Début du Long Été
 
