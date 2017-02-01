@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-26T13:37:00+01:00
+
+====== Robert Baratheon ======
+Combattant Adulte (26 ans)
+|   Compétences   | Valeurs | Spécialités                                       |
+|:---------------:|:-------:|:--------------------------------------------------|
+|  Art Militaire  |    6    | Commandement 4, Stratégie 2, Tactique 1           |
+|     Agilité     |    3    |                                                   |
+|   Athlétisme    |    5    | Force 4                                           |
+|  Corps à corps  |    6    | Casse-tête 4, Lance 2                             |
+|    Dressage     |    5    | Équitation 2                                      |
+|    Endurance    |    6    | Résilience 1                                      |
+| Langue (Commun) |    3    |                                                   |
+|   Persuasion    |    4    | Charmer 1, Convaincre 3, Séduire (Influence +1) 3 |
+|     Statut      |    7    | Bienséance 3, Réputation 7, Tournoi 3             |
+|     Survie      |    5    | Chasse 2, Orientation 1 (Grand chasseur)          |
+|     Volonté     |    3    |                                                   |
+
+
+|                                                          Profil de rencontre                                                           |
+|:--------------------------------------------------------------------------------------------------------------------------------------:|
+|                                            Défense de Combat 10 (5) · Défense d’Intrigue 11                                            |
+|                                                        Santé 19 · Sang-froid 9                                                         |
+|                                                               Destinée 1                                                               |
+| **Avantages** : Maître des casse-tête 1 et 2, Chef de famille, Convaincant (Séduire), Coriace, Fureur, Grand chasseur, Meneur d’hommes |
+|                                                 **Défauts** : Esclave de la bouteille                                                  |
+|                                      Harnois complet supérieur : VA 11 · MA -5 · Enc 3 (Dépl. 2m)                                      |
+
+
+| Armes                       | Jet d’attaque | Dégâts   | Qualités                                                   |
+|:----------------------------|:--------------|:---------|:-----------------------------------------------------------|
+| Marteau de guerre supérieur | 6D+4B+1       | 5 (9)    | Deux mains, Encombrante 1, Fracassante 3, Lente, Puissante |
+| Dague d’acier valyrien      | 6D+1          | 2 dégâts | Défensive 1, Secondaire 1                                  |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====

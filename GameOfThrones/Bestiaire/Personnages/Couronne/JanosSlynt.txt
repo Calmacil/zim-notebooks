@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-01T22:32:04+01:00
+
+====== Janos Slynt ======
+
+Il est actuellement le Lieutenant et commandant en second des Manteaux d’Or. Il brigue le poste de commandant.
+**Manipulateur Adulte**		
+|   Compétences    | Valeurs | Spécialités               |
+|:----------------:|:-------:|:--------------------------|
+|  Art Militaire   |    2    | Commandement 1            |
+|    Athlétisme    |    4    |                           |
+|   Connaissance   |    3    | Connaissance de la Rue 1  |
+|  Corps à Corps   |    4    | Lances 2                  |
+|     Duperie      |    4    | Bluff 2, Triche 1         |
+|    Endurance     |    3    |                           |
+|   Ingéniosité    |    3    |                           |
+| Langue (Commune) |    3    |                           |
+|    Persuasion    |    3    | Marchander 1, Intimider 1 |
+|      Statut      |    3    |                           |
+|    Vigilance     |    4    | Observation 1             |
+
+
+|                      Profil de rencontre                       |
+|:--------------------------------------------------------------:|
+|          Défense de Combat 10 · Défense d’Intrigue 9           |
+|                     Santé 9 · Sang-froid 6                     |
+|                           Destinée 3                           |
+|    **Avantages** : Perfide (peut relancer les 1 en Duperie)    |
+|                **Défauts** : Faiblesse (Statut)                |
+| Plates et Mailles : VA 7 · MA -4 · Enc 2 (Dépl. 3m, Sprint 14) |
+
+
+| Armes | Jet d’attaque | Dégâts | Qualités                  |
+|:------|:--------------|:-------|:--------------------------|
+| Lance | 4D+2B         | 4      | Rapide                    |
+| Dague | 4D            | 1      | Défensive 1, Secondaire 1 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+
+@npc @primaire @secondaire

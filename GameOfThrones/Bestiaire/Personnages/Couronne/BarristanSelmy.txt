@@ -3,6 +3,42 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-01-26T13:36:49+01:00
 
 ====== BarristanSelmy ======
-Created jeudi 26 janvier 2017
 
 Combattant vieux (52 ans)
+|    Compétences     | Valeurs | Spécialités                               |
+|:------------------:|:-------:|:------------------------------------------|
+|      Agilité       |    4    | Vivacité 1                                |
+|   Art militaire    |    4    |                                           |
+|     Athlétisme     |    5    | Force 1                                   |
+|   Corps à corps    |    5    | Armes d’Hast 1, Lames Longues 2, Lances 2 |
+|      Dressage      |    4    | Équitation 2                              |
+|     Endurance      |    5    | Résilience 2, Vigueur 2                   |
+|  Langues (Commun)  |    4    |                                           |
+| Langues (diverses) |    2    |                                           |
+|     Persuasion     |    3    |                                           |
+|       Statut       |    5    | Réputation 3, Tournois 2                  |
+|     Vigilance      |    3    | Observation 1                             |
+|      Volonté       |    4    | Dévouement 4                              |
+
+
+|                                                    Profil de rencontre                                                    |
+|:-------------------------------------------------------------------------------------------------------------------------:|
+|                                       Défense de Combat 11 · Défense d’Intrigue 10                                        |
+|                                                 Santé 17 · Sang-froid 14                                                  |
+|                                                        Destinée 2                                                         |
+| **Avantages** : Célèbre, Maître des lames longues 1 et 2, Membre de la Garde Royale, Sang des héros, Vétéran des tournois |
+|                                       **Défauts** : Faiblesse (Agilité, Athlétisme)                                       |
+|                                     Harnois complet supérieur : VA 11 · MA -5 · Enc 3                                     |
+
+
+| Armes                  | Jet d’attaque | Dégâts | Qualités                                                       |
+|:-----------------------|:--------------|:-------|:---------------------------------------------------------------|
+| Épée longue supérieure | 5D+2B+1       | 6      |                                                                |
+| Lance de guerre        | 5D+1B         | 9      | Empalement, Encombrante 2, Hargneuse, Lente, Montée, Puissante |
+| Grand Bouclier         | 5-1D          | 3      | Défensive 4, Encomblante 1                                     |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====

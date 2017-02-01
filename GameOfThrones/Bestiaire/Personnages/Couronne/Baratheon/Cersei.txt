@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-01T23:36:02+01:00
+
+====== Cersei Baratheon ======
+Manipulatrice jeune adulte
+| Compétences  | Valeurs | Spécialités                                               |
+|:------------:|:-------:|:----------------------------------------------------------|
+|   Agilité    |    2    | Vivacité 1                                                |
+| Connaissance |    3    |                                                           |
+|   Duperie    |    4    | Bluff 2, Comédie 1                                        |
+| Ingéniosité  |    3    |                                                           |
+|    Langue    |    4    |                                                           |
+|  Persuasion  |    5    | Charmer 2, Inciter 2, Intimider 1, Persifler 2, Séduire 3 |
+|    Statut    |    7    | Bienséance 3, Intendance 1, Réputation 3                  |
+|  Vigilance   |    3    | Observation 1                                             |
+|   Volonté    |    5    |                                                           |
+
+
+|                             Profil de rencontre                             |
+|:---------------------------------------------------------------------------:|
+|                 Défense de Combat 7 · Défense d’Intrigue 13                 |
+|                           Santé 6 · Sang-froid 12                           |
+|                                 Destinée 2                                  |
+| **Avantages** : Célèbre, Expertise (Séduire), Fascinant, Perfide, Séduisant |
+|                               **Défauts** : -                               |
+|                              Vêtements: VA 0 ·                              |
+
+
+| Armes | Jet d’attaque | Dégâts | Qualités                  |
+|:------|:--------------|:-------|:--------------------------|
+| Dague | 2D            | 1      | Défensive 1, Secondaire 1 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+
+@npc @primaire @secondaire
