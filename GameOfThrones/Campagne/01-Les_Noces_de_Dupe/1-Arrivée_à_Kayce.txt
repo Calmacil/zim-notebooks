@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-02T23:44:21+01:00
+
+====== 1-Arrivée à Kayce ======
+Created jeudi 02 février 2017
+
+L’histoire commence très probablement quand les invités du mariage — personnages inclus — se réunissent au château où a lieu la cérémonie et ont l,occasion de se mêler les uns aux autres.
+Le château de Kayce accueillera le mariage et appartient à la maison Kenning, la maison de la fiancée.
+
+===== Prélude =====
+Le prélude à l’arrivée des personnages peut se réduire à une simple phrase — «Vous arrivez…» — ou au contraire __commencer par la réception de l’invitation__ et détailler tout le voyage qui permet de se rendre à Kayce.
+Faire rencontrer des groupes d’autres invités sur la route menant au château, c’est l’occasion de présenter certains personnages.
+
+===== Action =====
+Une fois que le groupe arrive à Kayce, il y a des chevaux dont il faut s’occuper, des sacs et des coffres à décharger, et ainsi de suite. Les divers domestiques du château peuvent s’en occuper, laissant les invités rencontrer leurs hôtes et les autres convives, et tdécouvrir leurs appartements afin de se rafraîchir après le voyage.
+Les choses à faire:
+* **Présenter les principaux personnages**: Dans l’idéal, si les PJ ne sont pas les hôtes, les faire arriver assez tôt pour qu’ils soient présents quand d’autres personnages impliqués dans l’histoire arriveront. Les hérauts annoncent les arrivants, et c’ets l’occasion d’échanger des civilités, ce qui permet aux joueurs de faire la connaissance des //dramatis personæ//
+* **Poser les bases de futures interactions entre personnages**: La première impression est importante, qu’il s’agisse de celle que font les PJ sur les autres protagonistes, ou de celle qu’ils ont des personnages principaux. Y-a-t-il des atomes crochus, des répulsions ou des liens instantanés ?
+
+==== Prendre la température ====
+Une des choses que permet cet événement, c’est de laisser les joueurs se frotter à quelques-uns des mécanismes d'ASOIAF en leur présentant des défis mineurs et relativement inoffensifs, qui les laissent s’essayer un peu au jeu pour comprendre comment il fonctionne. Voici quelques exemples:
+* **Intrigue**: Mestre Hamdan ou un autre serviteur de haut rang tente de faire de l’obstructiotn au groupe concernant les logements ou quelque autre élément tmineur, insistant sur divers détails triviaux. Il les force par exemple à retirer les armes, à entrer dans la grande salle dans un ordre spécifique, etc. C’est une opportunité d’intrigue mineure car les personnages doivent persuader l’individu récalcitrant de se montrer un peu plus coulant. De même, un invité ou un domestique peut s’enticher d’un personnage (ou l’inverse), ce qui déclenche une brève intrigue basée sur la séduction.
+* **Combat**: Des chevaliers et tdes hommes d’arme fougueux s’entraînent dans la cour du château, donnant à ceux qui le désirent la possibilité de se joindre à eux et de prouver leur valeur dans un environnement où une défaite revient au pire à une gêne publique (tout en ménageant le potentiel pour une future rancune), ou à une blessure sans gravités si quelqu’un devient un peu trop brutal.
+
+===== Résolution =====
+En supposant que les invités se soient comportés comme il se doit et que personne ne se montre particulièrement impoli (en proférant quelque grave insulte ou en déclenchant une bagarre, par exemple), l’événement initial se termine quand tous les invités sont arrivés et installés en sécurité dans elurs quartiers, attendant le repas du soir pour se réunir et annoncer officiellement les fiançailles et le mariage qui s’ensuivra.
+
+Scène mineure, gains: xp / gloire
