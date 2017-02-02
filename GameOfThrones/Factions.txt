@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2017-01-23T13:35:13+01:00
-
-====== Factions ======
-Created lundi 23 janvier 2017
-

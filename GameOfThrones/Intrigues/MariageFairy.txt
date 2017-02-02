@@ -7,18 +7,27 @@ Created mardi 31 janvier 2017
 
 Bon ben c’est simple, il faut la marier celle-là. Plusieurs familles se sont manifestées, toutes visant plus les terres que la donzelle.
 
-la maison Lannister de Port-Lannis
-la maison Rosby -> Raynald Rosby, héritier du titre. Il va crever.
-la maison Omble a -> un fils cadet de Lard-Jon
-la maison Uller de Denfert -> Ser Ulwyk, cadet, 25 ans bogoss
-la maison Fossovoie pomme verte -> Ser Jon
-la maison Mallister de Salvemer -> Patrek Mallister, 12 ans environ
-la maison Frey a envoyé trois prétendants qui sont Walder, Walder et Walder
-la maison Grafton de Goëville -> Gyles Grafton, il a 3 ans !
-la maison Lydden de Fondcombe (!) -> Jeffrey Lydden, fils de Lord Lewis
-la maison Estren de Wyndhall -> Regenard, héritier
-la maison Bulwer de Noircouronne -> ser Jack Bulwer
-la maison Guivre de Noirvallon -> Igon Guivre
-la maison Morrigen de Nid-de-Corbeaux -> ser Richard Morrigen, cadet
+la maison [[Factions et Personnages:Ouest:LannisterPortLannis|Lannister]] de Port-Lannis (Maj) ( COUSIN! )
+la maison [[Clegane]] (Chev) a été recalée poliment
+la maison [[Factions et Personnages:Ouest:Lydden|Lydden]] de Fondcombe (!) -> Jeffrey Lydden, fils de Lord Lewis (Maj)
+la maison [[Factions et Personnages:Ouest:Estren|Estren]] de Wyndhall -> Regenard, héritier (Min)
++ la maison [[Factions et Personnages:Ouest:Marpheux|Marpheux]] de Cendremarc ? (Maj) -> Ser Addam Marpheux s’est fait chopper avec le p'tit mot
+
+la maison [[Factions et Personnages:Couronne:Rosby|Rosby]] -> Raynald Rosby, héritier du titre. Il va crever. (Maj)
+
+la maison [[Factions et Personnages:Nord:Omble|Omble]] a -> un fils cadet de Lard-Jon (Maj)
+
+la maison [[Factions et Personnages:Dorne:Uller|Uller]] de Denfert -> Ser Ulwyk, cadet, 25 ans bogoss (Maj)
+
+la maison [[Factions et Personnages:Bief:Fossovoie pomme verte|Fossovoie pomme verte]] de La Tonnelle -> Ser Jon (Chev)
+la maison [[Factions et Personnages:Bief:Bulwer|Bulwer]] de Noircouronne -> ser Jack Bulwer (Min)
+la maison [[Factions et Personnages:Bief:Guivre|Guivre]] de Noirvallon -> Igon Guivre (Min)
+
+la maison [[Factions et Personnages:Conflans:Mallister|Mallister]] de Salvemer -> Patrek Mallister, 12 ans environ (Maj)
+la maison [[Factions et Personnages:Conflans:Frey|Frey]] a envoyé trois prétendants qui sont Wander, Walder et Walder (Maj)
+
+la maison [[Factions et Personnages:Val:Grafton|Grafton]] de Goëville -> Gyles Grafton, il a 5 ans !
+
+la maison [[Factions et Personnages:Orage:Morrigen|Morrigen]] de Nid-de-Corbeaux -> ser Richard Morrigen, cadet
 
 @wedding
