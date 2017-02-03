@@ -2,7 +2,40 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-01-26T14:12:14+01:00
 
-====== JaimeLannister ======
-Created jeudi 26 janvier 2017
+====== Jaime Lannister ======
 
 Combattant Adulte (23 ans)
+|   Compétences    | Valeurs | Spécialités               |
+|:----------------:|:-------:|:--------------------------|
+|     Agilité      |    4    |                           |
+|  Art Militaire   |    3    | Commandement 1            |
+|    Athlétisme    |    4    |                           |
+|  Corps à Corps   |    5    | Lames longues 3, Lances 2 |
+|     Dressage     |    4    | Équitation 1              |
+|    Endurance     |    4    | Résilience 1, Vigueur 1   |
+| Langue (Commune) |    3    |                           |
+|    Persuasion    |    3    | Persifler 1               |
+|      Statut      |    4    |                           |
+
+
+|                                                            Profil de rencontre                                                            |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+|                                            Défense de Combat 10 (6, +4) · Défense d’Intrigue 8                                            |
+|                                                          Santé 12 · Sang-froid 6                                                          |
+|                                                                Destinée 2                                                                 |
+| **Avantages** : Maître des Lames Longues 1 et 2, Membre de la garde royale, Sang des Andals (CàC), Talentueux (CàC), Vétéran des tournois |
+|                                                         **Défauts** : Honni, Vil                                                          |
+|                                            Harnois complet supérieure : VA 10 · MA -4, Enc. 3                                             |
+
+
+| Armes                  | Jet d’attaque | Dégâts | Qualités                                                       |
+|:-----------------------|:--------------|:-------|:---------------------------------------------------------------|
+| Épée longue supérieure | 5D+3B+2       | 5      |                                                                |
+| Lance de guerre        | 5D+B1+1       | 8      | Empalement, Encombrante 2, Hargneuse, Lente, Montée, Puissante |
+| Grand Bouclier         | 5-1D + 1      | 2      | Défensive +4, Encombrante 1                                    |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====

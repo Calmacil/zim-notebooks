@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-26T13:39:20+01:00
+
+====== Stannis Baratheon ======
+Created jeudi 26 janvier 2017
+
+Meneur adulte (25 ans)
+
+|   Compétences    | Valeurs | Spécialités                 |
+|:----------------:|:-------:|:----------------------------|
+|     Agilité      |    3    |                             |
+|  Art Militaire   |    5    | Commandement 2, Stratégie 2 |
+|    Athlétisme    |    4    | Force 1                     |
+|   Connaissance   |    3    |                             |
+|  Corps à Corps   |    4    | Lames longues 2             |
+|    Endurance     |    4    | Résilience 3, Vigueur 2     |
+|   Ingéniosité    |    3    | Mémoire 1                   |
+| Langue (Commune) |    4    |                             |
+|    Persuasion    |    3    | Intimider 1                 |
+|      Statut      |    6    | Bienséance 1                |
+|    Vigilance     |    3    |                             |
+|     Volonté      |    4    | Dévouement 2                |
+
+
+|                       Profil de rencontre                       |
+|:---------------------------------------------------------------:|
+|      Défense de Combat 11 (9, +2) · Défense d’Intrigue 12       |
+|                    Santé 12 · Sang-froid 12                     |
+|                           Destinée: 3                           |
+| **Avantages** : Chef de famille (Peyredragon), Coriace, Obstiné |
+|                         **Défauts** : –                         |
+|       Plates et mailles supérieures: VA 7 · MA -2 · Enc 2       |
+
+
+| Armes                  | Jet d’attaque | Dégâts | Qualités     |
+|:-----------------------|:--------------|:-------|:-------------|
+| Épée longue supérieure | 4D+2B+1       | 4      |              |
+| Bouclier               | 4D            | 1      | Défensive +2 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
