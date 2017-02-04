@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-04T11:32:19+01:00
+
+====== Territoire ======
+Created samedi 04 février 2017
+| Couronne              | Terrains                              | Traits                                                            |
+|:----------------------|:--------------------------------------|:------------------------------------------------------------------|
+| Dorne                 | Collines, Montagne, Plaine            | Littoral, Localité, Île, Route, Ruine, Cours d’eau                |
+| Peyredragon           | Collines, Plaine, Marécages           | Littoral, Localité, Prairie, Île, Route, Ruine                    |
+| Îles de Fer           | Collines, Plaine                      | Littoral, Localité, Prairie, Île, Route, Ruine                    |
+| Port-Réal             | Plaine                                | Littoral, Localité, Prairie, Route, Ruine, Cours d’eau, Bois      |
+| Montagnes de la Lune  | Collines, Montagne                    | Littoral, Localité, Prairie, Île, Route, Ruine, Cours d’eau       |
+| Le Nord               | Collines, Montagne, Plaine, Marécages | Littoral, Localité, Prairie, Île, Route, Ruine, Cours d’eau, Bois |
+| Le Bief               | Plaine                                | Littoral, Localité, Prarie, Île, Route, Ruine, Cours d’eau        |
+| Le Conflans           | Collines, Plaine, Marécages           | Localité, Prairie, Route, Ruine, Cours d’eau                      |
+| Les Terres de l’Orage | Collines, Montagne, Plaine, Marécages | Littoral, Localité, Prairie, Île, Route, Ruine, Cours d’eau, Bois |
+| Les Terres de l’Ouest | Collines, Montagne, Plaine            | Littoral, Localité, Prairie, Île, Route, Ruine, Cours d’eau       |
+
+
+===== Coût de base des Domaines =====
+| Type      | Coût |
+|:----------|:-----|
+| Marécages | 3    |
+| Plaine    | 5    |
+| Collines  | 7    |
+| Montagnes | 9    |
+
+
+===== Coût des Traits =====
+
+| Catégorie   | Trait            | Coût |
+|:------------|:-----------------|:-----|
+| Bois        | Clairsemés       | +3   |
+|             | Denses           | +5   |
+| Cours d’eau | Ruisseau         | +1   |
+|             | Rivière / Fleuve | +3   |
+|             | Étang            | +5   |
+|             | Lac              | +7   |
+| Île         |                  | +10  |
+| Littoral    |                  | +3   |
+| Localité    | Hameau           | +10  |
+|             | Petite ville     | +20  |
+|             | Ville            | +30  |
+|             | Grande ville     | +40  |
+|             | Ville Immense    | +50  |
+| Prairie     |                  | +1   |
+| Route       |                  | +5   |
+| Ruine       |                  | +3   |
+
