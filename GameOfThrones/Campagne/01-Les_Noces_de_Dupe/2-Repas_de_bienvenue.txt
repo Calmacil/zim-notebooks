@@ -3,5 +3,35 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-02-02T23:58:36+01:00
 
 ====== 2-Repas de bienvenue ======
-Created jeudi 02 février 2017
 
+Un repas de bienvenue est donné aux invités, ce qui donne aux personnages l’occasion de faire la connaissance de tout un chacun et d’avoir un premier aperçu de ce qui se passe en coulisse.
+
+===== Prélude =====
+Les personnages s’installent dans les quartiers des invités où on les a menés ou aident les invités à le faire tandis que les domestiques s’affairent, occupés aux derniers préparatifs du festin de bienvenue : des tables sont disposées et préparées dans la grande salle et les fours sont allumés pour préparer une considérable quantité de nourriture.
+
+===== Action =====
+Saisissez l’occasion de décrire aux joueurs les différents plats servis au festin, y compris:
+* du bœuf ou du mouton rôti, tournant toute la journée sur une broche et marinée dans des épices, recouverts d’une croûte de sel
+* des légumes rôtis, essentiellement des pommes de terre, des carottes, des panais et des navets
+* des oignons cuits dans le jus de rôti
+* des tranches de pain frais recouvertes de beurre et de miel
+* d’immenses tommes de fromage pâle et goûteux
+* de la bière et du vin à profusion
+
+La scène du repas est une expérience qui doit faire appel à tous les sens des joueurs, en décrivant non seulement la nourriture, mais aussi le brouhaha des conversations, les éclats de rire, les os jetés par terre pour les chiens, la bière débordant de chopes mousseuses et ainsi de suite.
+
+==== Conversation polie ====
+Le repas fournit toutes sortes d’occasions d’intrigue à mesure que les personnages font connaissance avec les invités. Commencez en douceur par des civilités, des conversations consacrées au temps, aux récoltes, à la politique locale et autres sujets anodins, ainsi que par les présentations et les félicitations au futur couple. C’est une bonne occasion pour laisser des personnages du narrateur porter des toasts, à moins que les joueurs ne se dévouent. Comme dans [[1-Arrivée à Kayce|L’arrivée à Kayce]] vous pouvez tester le système d’intrigue du LdB en engageant les personnages dans des interactions mineures.
+S’il y a une chance pour qu’un des personnages plaise à [[Factions et Personnages:Ouest:Kenning Kayce:Eilene|Eilene Kenning]] ou [[Factions et Personnages:Ouest:Prestre:Darren|Darren Prestre,]] c’est sans doute le moment idéal pour planter les germes de cet intérêt futur. Il en va de même pour d’ǘentuelles rivalités avec d’autres personnages, ou pour les premières impressions que donnent les lordes Prestre et Kenning et leurs suites.
+
+==== Indisposition soudaine ====
+À un moment du repas, l’un des invités tombe soudain malade et doit partir inopinément. La meilleure candidate est [[Factions et Personnages:Ouest:Kenning Kayce:Sylvie|Sylvie,]] soudain prise de nausées à cause de sa grossesse. En fait, vous pouvez insister sur son «solide appétit» un peu plus tôt pendant le festin, puis sur sa nausée apparente et son départ pour aller vomir dans une garde-robe. Voilà qui pourrait susciter certaines suspicions de la part des personnages, ainsi que de Mestre Hamdan et [[Factions et Personnages:Ouest:Kenning Kayce:Eilene|Eilene,]] qui peuvent partir chercher Sylvie. La principale intéressée fait passer toute l’affaire sur le compte d’une crise de nerfs, ou peut-être sur quelque chose qu’elle n’a pas digéré, indisposée par un long voyage.
+Si vous voulez, faites effectuer un test Simple (6) de Soins par un personnage pour qu’il ait l’intuition que lady Sylvie pourrait bien être enceinte.
+
+==== Un plat avarié ====
+Le festin offre également l’opportunité à quelqu’un de glisser une substance dans la nourriture ou la boisson de quelqu’un d’autre, en fonction des circonstances. Il n’y a pas vraiment d’empoisonneur parmi les invités (du moins pas au départ) à moins que vous n’en ayez décidé autrement: les desseins de personne n’en sont encore arrivés à cette extrémité. Une Sylvie Kenning ambitieuse //pourrait// tenter d’empoisonner son futur beau-père pour accélérer l’accession de [[Factions et Personnages:Ouest:Prestre:Garrison|ser Garrison]] à son héritage, mais probablement pas lors du festin de bienvenue , de peur d’ǘeiller les soupçons et de retarder le mariage (cf. //En Chasse//).
+Toutefois, si vous pensez qu’il existe une rancœur entre deux convives, cette possibilité est à prendre en compte. La soudaine nausée de Sylvie peut certainment laisser planer un doute quant à de la nourriture avariée ou la présence d’un empoisonneur, en particulier puisqu’elle ne peut donner aucune raison pour expliquer ses nausées soudaines, exceptée «les nerfs». N’hésitez pas à faire peser les soupçons sur des personnages comme Eilene ou mestre Hamdan (et de les amener à vérifier soigneusement ce qu’ils boivent et mangent)
+
+===== Résolution =====
+Le festin se terminera fort probablement par le départ prématuré de Sylvie qui se plaint de la fatigue et de nausées tenaces, nombre des autres invités attendent d’être repus et quelque peu éméchés avant  de déposer les armes (voir effets de l’alcool)
+Vous pouvez utiliser la fin du festin pour faire la transition avec ce qui se passe la nuit au château — y compris peut-être une visite nocturne de [[Factions et Personnages:Ouest:Farman:Etan|ser Etan]] dans les appartements de Sylvie Kenning — ou passer directement au matin suivant et aux inévitables gueules de bois.

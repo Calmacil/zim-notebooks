@@ -3,5 +3,40 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-02-02T23:58:57+01:00
 
 ====== 4-La cérémonie ======
-Created jeudi 02 février 2017
+Les préparatifs et la patience sont récompensés quand la cérémonie a finalement lieu, bien que les choses puissent encore se dérouler de manière //imprévue//.
 
+===== Prélude =====
+La période qui les sépare de la cérémonie laisse aux personnages diverses occasions de se retrouver seuls à seuls avec les individus de leur choix, chacun vaquant à diverses occupations. Vous pouvez allonger cette scène à loisir et permettre aux personnages de s’impliquer dans d’autres intrigues et enquêtes, s’efforçant d’ne savoir le plus possible sur ce qui se trame autour d’eux, ou tentant de mener à bien leurs propres plans.
+C’est une bonne occasion pour donner aux jouers quelques indices en laissant un personnage du narrateur leur confier ses soupçons. Ceci peut annoncer des événements qui se produiront au plus tard pendant la cérémonie. Par exemple, une laidy Eilene troublée peut venir demander conseil avant de prendre des mesures après avoir appris certaines choses concernant sa sœur, un Darren Prestre bouleversé pourra se renseigner après d’un homme plus mûr.
+
+===== Action =====
+L’action commence vraiment quand tout le monde est réuni dans le septuaire de Kayce pour la cérémonie de mariage. Les invités sont tous là, dans leurs plus beaux atours, et ser Garrison est debout devant l’autel, attendant qu’arrive sa fiancée au bras de son père. Tout est en place, ce qui signifie généralement à Westeros que la situation est sur le point de dégénérer de la façon la plus spectaculaire possible.
+
+==== Qu’il parle ou se taise à jamais… ====
+L’élément dramatique de la cérémonie se produit avant que septon Moor ne déclare les fiancés mari et femme, quand chacun a eu la possibilité d’interrompre la cérémonie dans un ultime effort pour empêcher le mariage. Les personnages peuvent tenter de mettre un terme à toute l’affaire s’ils ont une raison de penser que le mariage est frauduleux ou dangereux pour leurs amis ou alliés. Plusieurs personnages du narrateur peuvent également vouloir s’interposer pour des raisons qui leur sont propres. Les personnages peuvent également vouloir empêcher d’autres convives de provoquer un esclandre, que ce soit pour préserver leur propre réputatin ou pour maintenir la paix.
+Voici quelques événements qui peuvent venir perturber la cérémonie:
+
+=== Etan Farman ===
+Ser Etan, voyant sa maîtresse sur le point d’en épouser un autre, peut fort bien perdre la tête et se dresser devant les familles rassemblées pour déclarer sa flemme à Sylvie et réclamer le dorit de l’épouser. Ceci la rend furieuse, car Etan gâche ainsi ses plans soigneusement élaorés, et elle nie donc en bloc, ce qui pousse le jeune chevalier à tenter de l’enlever à la force de son épée et à s’enfuir du château! Voilà qui permet aux personnages de se lancer à sa poursuite ou d’empêcher ser Etan de s’échapper. Pour ajouter à la tension dramatique, ser Garrison peut être assommé par un violent coup de son rival alors qu,il tente d’empêcher Etan d’enlever Sylvie, et Darren Prestre peut être utilisé comme un boulet qui handicape les personnages en tentant de les aider.
+
+=== Darren Prestre ===
+Un Darren Prestre bouleversé et éperdu d’amour peut défier son fèrre aîné pour la main de Sylvie. Sinon, s’il a appris la vérité, il peut dénoncer la future épouse de son frère et son amant en public, ce qui provoquera un duel avec ser Etan. Darren ne parviendra sans doute as à battre le chevalier plus vieux et plus expérimenté sans l’aide d’un second lors du duel.
+
+=== Lord Prestre ===
+S’il est toujours en vie (et n’a pas subi «d’accident» fatal durant la chasse) et s’il découvre l’infidélité de Sylvie, lord Prestre peut faire un scandale et empêcher les noces. La scène est particulièrement dramatique s’il a simplement été blessé ou est «tombé malade» — empoisonné — précédemment, et s’il a retrouvé assez de force pour faire irruption dans le septuaire en proférant ses accusations, recourant peut-être à un champion pour prouver leur véracité en abattant le chevalier servant de Sylvie (qui pourra être Etan ou Garrison selon les circonstances) C’est une mission toute trouvée pour un personnage qui voudrait rentrer dans les bonnes grâces de lord Prestre.
+
+=== Eilene Kenning ===
+Eilene pourrait trouver le courage d’accuser sa sœur d’infidélité, ou révéler que Sylvie porte l’enfant d’un autre. Elle peut égalemnet voler au secours de Darren, ou raconter tout ce qu’elle sait sur Sylvie pour convaincre ce dernier que sa sœur ne le mérite pas. Il en découle toutes sortes d’accusations et de contre-accusations, les joueurs ayant pour tâche de démêler le tout.
+
+=== Mestre Hamdan ===
+Si nul autre ne se décide à parler pendant la cérémonie, vous pouvez laisser le mariage se dérouler sans accroc ouf aire intervenir mestre Hamdan comme un détective amateur révélant le nom du meurtrier après avoir réuni tous les protagonistes. Naturellement, le mestre n’est pas un guerrier, et il n’arrive pas à la cheville de ser Etan en cas d’issue violente, ce qui signifie que les personnages devront peut-être voler à son secours.
+Jouez toute confrontation impliquant la cérémonie de mariage en fonction des actes des participants, en vous concentrant sur le fait que les personnages joueurs font office de camp neutre arbitrant les querelles ou dévoilant la vérité.
+
+==== Attaqués! ====
+Si vous voulez un retournement de situation encore plus important, un autre ennemi peut tirer parti de la situation pour lancer un assaut contre le château pendant le mariage, afin de prendre les invités et les gardes par surprise (violent les coutumes au passage, si tant est que les seigneurs belliqueux les respectent). Les assaillants peuvent être les relations d’Etan au sein de la maison Farman, des pillards ou des bandits, ou n’importe quelle autre faction. Si vous dirigez une campagne où le surnaturel a sa place et si le mariage a lieu le soir (ce qui est rare, mais pas impossible), les assaillants peuvent même être des spectres ou autres créatures du même acabit. L’attaque permet aux personnages de se rallier aux défenseurs. Elle peut également servir de distraction pour un autre plan, donnant l,occasion d’assassiner un invité dans le chaos qui s’ensuit, et le faisant passer pou «mort au combat».
+
+==== La fiancée en fuite ====
+Bien que Sylvie Kenning fasse tout ce qu’elle peut pour épouser Garrison Prestre, si la situation se retourne contre elle, elle n’a pas la moindre intention de retourner ramper, couverte de honte, dans les terres de sa famille. Elle tentera plutôt de s’échapper avec Etan Farman jusqu’au domaine de sa famille pour l’épouser et donner naissance à son enfant (qui est un fils). Ils peuvent s’enfuir discrètement à la faveur de la nuit, mais ils devront sans doute plutôt échapper à une famille et à des invités en colère après une confrontation directe. Vous pouvez également jouer une poursuite à cheval en rase campagne tandis que le couple tente d’échapper à ses poursuivants.
+
+===== Résolution =====
+Au bout du compte, soit le mariage a lieu, soit il est annulé. Pour continuer à jouer cette histoire, vous voudrez peut-être retarder certaines révélations dramatiques jusqu’au banquet du mariage et aux festivités qui s’ensuivent. Sinon, l’implosion de la cérémonie constituera probablement le point culminant de l’hisotire, tout ce qui suit ne servant qu’à boucler l,intrigue et à préparer le décor pour les prochaines histoires.
