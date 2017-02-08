@@ -4,28 +4,25 @@ Creation-Date: 2017-02-07T23:36:17+01:00
 
 ====== Artur Prestre ======
 Vieux dirigeantA
-|    Compétences    | Valeurs | Spécialités                                        |
-|:-----------------:|:-------:|:---------------------------------------------------|
-|   Art militaire   |    5    | Commandement 1, Stratégie 2                        |
-|    Athlétisme     |    3    |                                                    |
-|   Corps à corps   |    5    | Lames longues 3                                    |
-|     Dressage      |    3    | Équitation 1                                       |
-|      Duperie      |    3    |                                                    |
-|     Endurance     |    4    | Résilience 1                                       |
-|    Ingéniosité    |    3    |                                                    |
-| Langue: Ouestrien |    3    |                                                    |
-|    Persuasion     |    4    | Convaincre 1, Inciter 1, Persifler 1, Marchander 2 |
-|      Statut       |    5    | Réputation 1                                       |
-|      Survie       |    4    | Chasse 2                                           |
-|        Tir        |    3    |                                                    |
-|     Vigilance     |    4    |                                                    |
-|      Volonté      |    5    |                                                    |
+|  Compétences  | Valeurs | Spécialités                                        |
+|:-------------:|:-------:|:---------------------------------------------------|
+| Art militaire |    4    | Commandement 1, Stratégie 2                        |
+|  Athlétisme   |    3    |                                                    |
+| Corps à corps |    5    | Lames longues 3                                    |
+|   Dressage    |    3    | Équitation 1                                       |
+|   Endurance   |    4    | Résilience 1                                       |
+|  Ingéniosité  |    3    |                                                    |
+|  Persuasion   |    3    | Convaincre 1, Inciter 1, Persifler 1, Marchander 2 |
+|    Statut     |    5    | Réputation 1                                       |
+|    Survie     |    3    | Chasse 2                                           |
+|   Vigilance   |    3    |                                                    |
+|    Volonté    |    4    |                                                    |
 
 
 |                    Profil de rencontre                    |
 |:---------------------------------------------------------:|
-|      Défense de Combat 9 (4) · Défense d’Intrigue 12      |
-|                 Santé 12 · Sang-froid 15                  |
+|      Défense de Combat 8 (3) · Défense d’Intrigue 11      |
+|                 Santé 12 · Sang-froid 12                  |
 |                        Destinée: 1                        |
 | **Avantages** : Chef de famille, Maître des lames longues |
 |     **Défauts** : Faiblesse (Corps à Corps), Distrait     |
