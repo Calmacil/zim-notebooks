@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-12T23:00:00+01:00
+
+====== Factions et Personnages ======
+Created dimanche 12 février 2017
+
+===== TODO =====
+[ ] Fiche du Braavien Ailyr Lathaus
+[ ] Maisons nobles:
+	[ ] Kenning
+	[ ] Prestre
+	[ ] Farman
+	[ ] Cerwyn
+	[ ] Poulet

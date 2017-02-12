@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-12T23:27:41+01:00
+
+====== Ailyr Lathaus ======
+
+Maître d'armes braavien
+
+|   Compétences    | Valeurs | Spécialités                 |
+|:----------------:|:-------:|:----------------------------|
+|     Agilité      |    5    | Vivacité 3 [+6]             |
+|    Athlétisme    |    5    | Escalade 2                  |
+|   Connaissance   |    3    | Éducation 1                 |
+|  Corps à corps   |    6    | Escrime 6, Lames courtes 3  |
+|    Discrétion    |    4    |                             |
+|     Duperie      |    5    | Bluff 3, Comédie 3          |
+|    Endurance     |    4    |                             |
+|   Ingéniosité    |    4    | Mémoire 1                   |
+|      Larcin      |    3    |                             |
+| Langue: Braavien |    3    |                             |
+|  Langue: commun  |    2    |                             |
+|    Persuasion    |    3    | Convaincre 1, Inciter 2     |
+|      Statut      |    3    | Bienséance 1, Intendance 1  |
+|       Soin       |    3    | Blessures 1                 |
+|      Survie      |    3    | Chasse 2                    |
+|       Tir        |    3    | Arbalète 1                  |
+|    Vigilance     |    4    | Observation 1 [+6, passive] |
+|     Volonté      |    4    |                             |
+
+
+|                        Profil de rencontre                         |
+|:------------------------------------------------------------------:|
+|                   Combat 14 [+6+5] · Intrigue 11                   |
+|                      Santé 12 · Sang-froid 12                      |
+|                             Destinée 2                             |
+| **Avantages** : Danseur d'eau 1, 2 et 3, Maître Braavien 1, 2 et 3 |
+| **Défauts** : Tourmenté, Esclave de la bouteille, Dettes, (Bâtard) |
+|                       Armure : VA x · MA -x                        |
+
+
+| Armes           | Jet d’attaque | Dégâts | Qualités                         |
+|:----------------|:--------------|:-------|:---------------------------------|
+| Épée braavienne | 6D+5B         | 5      | Défensive 1, Rapide              |
+| Main-gauche     | 6D+5B         | 4      | Défensive 2, Secondaire 1        |
+| Poignard        | 6D+3B         | 3      | Secondaire 2                     |
+| Arbalète légère | 3D+1B         | 6      | Portée longue, Recharge 1, Lente |
+
+
+===== Équipement =====
+Une tenue de courtisan braavienne un peu démodée et élimée
+Un gros anneau au doigt
+
+===== Fluff =====
+* Né à Braavos aux alentours de l'an 245 (43 ans) d’un père de la noblesse et d’une prostituée.
+* À vécu comme gamin des rues jusqu’à l’âge d’environ 10 ans, ou il s’est fait embarquer comme mignon par un capitaine des Puînés, une compagnie de mercenaires. Il tue l'officier après quelques mois, puis une douzaine des hommes qui tentent de le capturer. Le chef de la compagnie le remarque et lui offre une place dans la Compagnie pour payer sa dette.
+* Il a fait ses armes au sein de la compagnie sur de nombreux fronts, perfectionnant son talent naturel pour l’escrime auprès de ses compagnons et montant rapidement dans la hiérarchie. Il connaît également ses premières filles.
+* À l’âge de 15 ans il quitte la compagnie pour vivre la vie d’aventurier. Il tente à plusieurs reprises de fonder sa propre compagnie, mais son jeune âge l’empêche d’être pris au sérieux, malgré ses prouesses déjà fort impressionnantes pour son âge.
+* À 17 ou 18 ans il retourne à Braavos et se fait engager comme garde dans la maisonnée de son père naturel. Curieux hasard, car il ignore absolument tout de son géniteur.
+* À 20 ans il apprend que le Seigneur Xapatis, car c’est le nom de son père, est toujours «fidèle» à sa mère. Il finit par découvrir la vérité en trouvant sa mère agonisante sur sa couche: Xapatis, victime de pulsions peu naturelles, l’avait presque tuée sous lui. Il engage un Sans-visage pour faire assassiner son père, et s’enfuit en volant son anneau sigillaire.
+* Il s’engage dans la maisonnée d’un autre noble, le Seigneur Qhollaro, et gravit de nouveau la hiérarchie.
+* À 26 ans, alors capitaine de la garde, il est reconnu par un membre de la maisonnée de Xapatis à l’occasion d’une réception mondaine et se trouve contraint à fuir à nouveau. Il rejoint alors Westeros, ou il fait la rencontre, à Port Réal, du jeune lord Blaith Whiteshores. Nous sommes en 271.
+* À 32 ans, il participe, aux côtés de son ami Lord Whiteshores, au siège de Sombreval, qui verra la disparition de la maison [Darklyn]. Il s’illustre en sauvant la vie de Ser Barristan le Hardi. Il quittera Westeros sur ses entrefaites, désireux de retrouver sa patrie.
+* [Insérer une connerie qu’il a pu faire]
+* On le revoit en Westeros des années après, en 284. C’est l’année qui marquera le décès de son ami Blaith Whiteshores et le départ de Fairy pour le Nord. Il n’a plus quitté les Rivages depuis.
+* En 288, cela fait maintenant 4 ans que Ailyr est maître d’armes de la maison Whiteshores. Piètre meneur d’hommes, il passe ses journées à rosser la garnison et ses soirées à la taverne, sur le port. Il ne parle que rarement de son passé, et seulement si c’est son passé commun avec Lord Blaith.

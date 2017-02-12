@@ -5,3 +5,10 @@ Creation-Date: 2017-02-02T23:13:21+01:00
 ====== Campagne ======
 Created jeudi 02 février 2017
 
+
+===== Todo =====
+[ ] Écrire le prélude de Baram
+[ ] Écrire le prélude de Druze
+[ ] Écrire le prélude de Fairy
+[ ] Écrire le prélude de Loarnys
+
