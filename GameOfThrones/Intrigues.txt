@@ -7,22 +7,6 @@ Creation-Date: 2017-01-20T13:42:19+01:00
 Maison des PJ:
 Liée à la Maison Cerwyn
 
-===== Intrigues en cours =====
-Pour la gestion des intrigues de longue durée.
-| Étiquette                    | *Protago* | Humeur       | Déf. | SF      | Frust. | *Antago* | Humeur        | Déf. | SF      | Frust. |
-|:-----------------------------|:----------|:-------------|:-----|:--------|:-------|:---------|:--------------|:-----|:--------|:-------|
-| Accordailles de Fairy - T. 0 | Lard-Jon  | Bienveillant | 10   | 12 / 12 | 0 / 4  | Morenne  | Bienveillante | 11   | 15 / 15 | 0 / 5  |
-
-
-===== Journal d’humeur =====
-| Antago            | Baram        | Druze  | Fairy        | Loarnys |
-|:------------------|:-------------|:-------|:-------------|:--------|
-| //Morenne//       | Amical       | Amical | Affectueux   | Favo    |
-| //Ailyr//         | Bienveillant | Indif  | Bienveillant | Indif   |
-| //Lard-Jon//      | Indif        | Indif  | Bienveillant | Indif   |
-| //La maquerelle// | Indif        | Indif  | Indif        | Amical  |
-
-
 ===== Rébellion des GreyJoy =====
 Date 289, 9 ans avant le début des bouquins
 Les Greyjoy attaquent Port Lannis, puis le Nord, et tentent de… TODO lire l’histoire

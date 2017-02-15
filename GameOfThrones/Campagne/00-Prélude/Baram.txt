@@ -5,3 +5,32 @@ Creation-Date: 2017-02-12T22:47:04+01:00
 ====== Baram ======
 Created dimanche 12 février 2017
 
+[ ] Il y a quatre ans…
+[ ] En Ville
+[ ] L’annonce du mariage: cf. la scène de [[Fairy]]
+
+===== Il y a quatre ans… =====
+L’alerte tombe en milieu de matinée, une bande de pillards arrive par l’embouchure du fleuve. Il y a une unité de navire et 5 de pillards.
+
+* **Navires entraînés**: Discipline 6; //Corps à corps 3, Tir 3, Vigilance 3//; Armure 5, Santé 6; //Dégâts càc 6//, Dégâts tir 5, Longue portée; Déf 7
+* **Pillards vétérans (4)**: Discipline 6; //Agilité 4, Corps à Corps 4 , Endurance 3//; Armure 2 (-1), Santé 9; //Dégâts càc 4//; Déf 7
+* **Pillards d'élite (1)**: Discipline 3; //Agilité 4, Corps à Corps 4, Endurance 5;// Armure 5 (-2), Santé 15;// Dégâts càc 4//; Déf 6
+* **Commandant Pillard**: Agilité 3, Art de la guerre 3 (Commandement 2), Athlétisme 4 (Force 1), Corps à Corps 5 (Haches 2), Endurance 4, Statut 3, Vigilance 4 (Observation 1)
+	* Défense 11, Santé 12
+	* Armure de Mailles: VA 4, MA -2
+	* Bouclier: 5D, 2dgt, Défensive +2
+	* Hache de bataille: 5D+2B, 4 dg (5 2M), Polyvalente
+* **Blaith Whiteshores**: Agilité 3, Art de la guerre 4 (Commandement 2), Athlétisme 3, Corps à Corps 4 (Haches 2), Dressage 3, Endurance 3, Statut 5, Vigilance 3, Volonté 4 (Courage 2)
+	* Défense 9 (4, +2), Santé 9
+	* Harnois: VA9, MA -5, Enc 3 (mvt 2, Sprint 13)
+	* Bec-de-Corbin: 4D+1B, 2 dg, Fracassante 1
+	* Bouclier: 4D+2B, 1dg, Défensive +2
+
+Blaith demandera conseil à Baram sur la gestion de l’attaque. Si les navires sont envoyés, les pillards débarquent immédiatement et poursuivent à pieds, causant des dégâts dans la campagne tout en se dirigeant vers la ville.
+Se démerder pour faire affronter ou le Commandant Pillard, ou une unité à Ser Baram. Dans tous les cas, Blaith doit se retrouver isolé. Il subira une blessure modérée. La suite est connue: il meurt durant le transport.
+
+===== En Ville =====
+Que ce soit à la taverne, au marché ou en ville, Baram aura l’occasion de croiser le Sans-Visage, occupé à le surveiller.
+Si jamais il fait mine de le repérer (improbable) un gamin des rues (Duperie et Larcin à 3) tente d’abord de l’éloigner, puis lui pique son or. Arrivera ce qui arrivera.
+
+Envisager une course-poursuite dans les rues du marché, du port, peut-être jusqu'à la mine si le gamin y arrive. Dans ce cas, Ser Baram aura maille à partir avec 8 de ces voyous, qui fuiront dès que la moitié d’entre eux sera à terre, sinon avant.
