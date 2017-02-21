@@ -2,6 +2,66 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-02-02T22:27:27+01:00
 
-====== Lannister ======
-Created jeudi 02 février 2017
+====== Maison Lannister ======
+//Je Rugis//
+{{./pasted_image.png?width=120}}	
 
+| ÉTAPE    | Défense | Influence | Loi | Population | Puissance | Richesse | Territoire |
+|:---------|:--------|:----------|:----|:-----------|:----------|:---------|:-----------|
+| -        | 73      | 53        | 55  | 39         | 63        | 67       | 76         |
+| Couronne | -5      | +10       | -5  | -5         | -         | +20      | -5         |
+| TOTAL    | 68      | 63        | 50  | 34         | 63        | 87       | 71         |
+
+
+===== Patrimoine =====
+
+==== Défense ====
+* Castral-Roc: Château amélioré (50)
+* Reste: 18
+
+==== Influence ====
+Héritiers: 20 fils aîné, 10 second fils ou fille aînée, 5 les autres. Statut Max -1, Max -2, Max -3
+* Première fille: [[Factions et Personnages:Couronne:Baratheon:Cersei|Cersei]] (10); Elle ne devrait plus compter mais c’est la Reine, elle compte quand même.
+* Second fils: [[+TyrionLannister|Tyrion]] (10)
+* Reste: 33
+
+==== Loi et Population ====
+* Modif de Loi: +1
+* Modif de Population: 0
+
+==== Puissance ====
+Maisons Brax, Crakehall, Kenning de Kayce, Lefford, Lydden, Marpheux, Prestre, Lannister de Port-Lannis et Whiteshores  (65, limite)
+
+* Garde Personnelle d’Élite (13)
+* Navires Entraînés (10)
+* Garnison Vétéran (7)
+* Cavalerie Entraînée (8)
+* Infanterie Vétéran (9)
+* Infanterie Entraînée (7)
+* Soutien Entraîné (5)
+* Ingénieurs Entraînés (5)
+
+==== Richesse ====
+Patrimoine de richesse: septuaires, mestres…
+
+==== Territoires ====
+* Domaine principal (33)
+	* Colline (5)
+	* Littoral (+3)
+	* Routes (+5)
+	* Petite ville (+20)
+* Domaine côtier (19)
+	* Colline (5)
+	* Littoral (+3)
+	* Prairie (+1)
+	* Hameau (+10)
+* Domaine intérieur (14)
+	* Colline (5)
+	* Fleuve (+3)
+	* Routes (+5)
+	* Prairie (+1)
+* Dernier domaine (21)
+	* Colline (5)
+	* Routes (+5)
+	* Hameau (+10)
+	* Prairie (+1)

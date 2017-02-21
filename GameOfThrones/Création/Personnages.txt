@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-08T00:12:13+01:00
+
+====== Personnages ======
+Created mercredi 08 février 2017
+
+| Âge                | Comp. | Spé. | Max | Dest. | Défauts                                                          <|
+|:-------------------|:-----:|:----:|:---:|:-----:|:------------------------------------------------------------------|
+| 0-9 Enfant         |  12   |  4   |  4  |   7   | –                                                                 |
+| 10-13 Adolescent   |  15   |  4   |  4  |   6   | –                                                                 |
+| 14-18 Jeune adulte |  18   |  6   |  5  |   5   | –                                                                 |
+| 18-30 Adulte       |  21   |  8   |  7  |   4   | 1 défaut                                                          |
+| 30-50 Âge mûr      |  24   |  10  |  6  |   3   | 1 faiblesse: Agilité, Athlétisme, Endurance                       |
+| 50-70 Vieux        |  27   |  16  |  5  |   2   | 1 déf, 1 faiblesse: Agi, Athlé, CàC, Endu, Ingé, Tir ou Vigilance |
+| 70-80 Très vieux   |  33   |  20  |  5  |   1   | 1 déf, 2 faiblesses: Agi, Athlé, Càc, Endu, Ingé, Tir ou Vigi     |
+| 80+ Vénérable      |  36   |  24  |  5  |   0   | 1 déf, 3 faib: Agi, Athlé, Càc, Endu, Ingé, Tir, Vigi             |
+
+
+===== Types =====
+
+==== Combattant ====
+Agilité, Art militaire, Athlétisme, Corps à corps, Dressage, Endurance, Tir
+
+==== Coquin ====
+Agilité, Corps à corps, Discrétion, Ingéniosité, Larcin, Persuasion, Tir, Vigilance
+
+==== Dirigeant ====
+Art militaire, Corps à corps, Endurance, Ingéniosité, Persuasion, Statut
+
+==== Manipulateur ====
+Connaissance, Duperie, Ingéniosité, Langue, Persuasion, Statut, Vigilance, Volonté

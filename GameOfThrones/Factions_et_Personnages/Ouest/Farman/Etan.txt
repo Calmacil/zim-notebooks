@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-07T23:23:08+01:00
+
+====== Etan Farman ======
+
+|  Compétences  | Valeurs | Spécialités     |
+|:-------------:|:-------:|:----------------|
+|    Agilité    |    3    |                 |
+| Art Militaire |    3    | Tactique 2      |
+|  Athlétisme   |    3    |                 |
+| Corps à corps |    4    | Lames longues 1 |
+|   Dressage    |    3    | Équitation 2    |
+|    Duperie    |    2    | Bluff 2         |
+|   Endurance   |    3    |                 |
+|  Ingéniosité  |    3    |                 |
+|    Statut     |    3    | Réputation 1    |
+|    Survie     |    3    | Chasse 1        |
+|      Tir      |    3    | Arbalètes 1     |
+|    Volonté    |    3    |                 |
+
+
+|              Profil de rencontre               |
+|:----------------------------------------------:|
+| Défense de Combat 8 (5) · Défense d’Intrigue 8 |
+|             Santé 9 · Sang-froid 9             |
+|                  Destinée: 2                   |
+|        **Avantages** : Oint, Séduisant         |
+|             **Défauts** : Arrogant             |
+|    Cotte de mailles : VA 5 · MA -3 · Enc 2     |
+
+
+| Armes       | Jet d’attaque | Dégâts | Qualités                    |
+|:------------|:--------------|:-------|:----------------------------|
+| Épée longue | 4D+1B         | 4      |                             |
+| Dague       | 4D            | 1      | Défensive +1, Secondaire +1 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+Père: [[Sebaston]], sœur: [[Jeyne]]
+Membre de la maisonnée des [[Ouest:Kenning Kayce|Kenning]] et pupille de [[Ouest:Kenning Kayce:Gerard|Lord Gerard,]] Etan Farman a été récemment adoubé. C’est un superbe jeune homme aux cheveux noirs et aux yeux verts étincelants. Il est tombé sous le charme de [[Ouest:Kenning Kayce:Sylvie|Sylvie Kenning,]] qu’il désirait quasiment depuis la première fois qu’ils se sont rencontrés. Durant l’année qui vient de s’écouler ils ont été amants, avant même que les épousailles ne soient annoncées.
+Sylvie a persuadé Etan que c’était une bonne idée de la laisser se marier, garantissant paix et prospérité à sa maison et gardant leur relation secrète pour le moment. S’ils jouent finement, tous deux pourront prendre le contrôle des deux maisons, et même tenter de mettre la main sur la maison [[Farman]] si Etan en devient l’héritier (il faudrait pour cela que quelque-chose arrive à son frère aîné [[Farman:Davin|Davin]]). Bien qu’ n’ait pas le talent de Sylvie pour l’intrigue, Etan sait reconnaître l’ingéniosité de son plan, et il est prêt à la suivre pour le moment.
+La difficulté pour lui consiste à la voir dans les bras d’un autre homme auquel elle jurera fidélité devant l’autel des dieux, et qui finira par coucher avec elle. Jusqu’ici, Etan s’est persuadé que tout ceci faisait partie de leur plan, que ça n’avait pas d’importance, mais supporter la situation est une toute autre affaire. Il est terriblement tenté d’accélérer les choses pour se débarasser de [[Ouest:Prestre:Garrison|ser Garrison,]] peut-être dès que Sylvie sera son épouse légitime. Il risque de perdre de vue le plan à long terme si sa fierté virile l’emporte sur son bon sens. Fringuant chevalier jusqu’au bout des doigts, ser Etan ne prête guère attention aux dames de la maison des hôtes ni aux invités du mariage, ce qui suscite quleques rumeurs à son sujet. En réalité, il n’a d’yeux que pour Sylvie, du moins pour le moment.Sa

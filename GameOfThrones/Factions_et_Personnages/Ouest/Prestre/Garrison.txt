@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-07T23:10:48+01:00
+
+====== Garrison Prestre ======
+
+Combattant adulte
+|  Compétences  | Valeurs | Spécialités     |
+|:-------------:|:-------:|:----------------|
+| Art Militaire |    4    | Stratégie 1     |
+|  Athlétisme   |    3    |                 |
+| Corps à corps |    4    | Lames longues 2 |
+|   Dressage    |    3    | Équitation 2    |
+|   Endurance   |    3    | Résilience 1    |
+|    Statut     |    4    | Tournois 1      |
+|    Survie     |    3    | Chasse 2        |
+|      Tir      |    3    |                 |
+|   Vigilance   |    3    |                 |
+|    Volonté    |    3    | Dévouement 1    |
+
+
+|                      Profil de rencontre                       |
+|:--------------------------------------------------------------:|
+|         Défense de Combat 8 (5) · Défense d’Intrigue 9         |
+|                     Santé 9 · Sang-froid 9                     |
+|                          Destinée: 1                           |
+|    **Avantages** : Héritier, Maître des lames longues, Oint    |
+|                       **Défauts** : Naïf                       |
+| Cotte de mailles : VA 5 · MA -3 · Enc. 2 · Dépl. 4 (sprint 14) |
+
+
+| Armes       | Jet d’attaque | Dégâts | Qualités |
+|:------------|:--------------|:-------|:---------|
+| Épée longue | 4D+2B         | 4      |          |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+Garrison Prestre n’a jamais vraiment voulu être l’héritier de son père. Il était ravi de jouer les futurs vassaux loyaux auprès de son frère Kai, qu’il admirait et tentait d’imiter. Après la mort de Kai au combat, Garrison fit de son mieux pour prendre la place de son frère, bien qu’il ne fut jamais à la hauteur aux yeux et dans le cœur de leur père. Quand sa mère mourut de chagrin, l’abîme qui séparait Garrison de lord [[Artur]] se creusa, et le jeune homme dut se contenter de faire son devoir de son mieux.
+Ses fiançailles avec [[Ouest:Kenning Kayce:Sylvie|Sylvie Kenning]] ont donné à Garrison un nouvel espoir pour l’avenir. Bien qu’il connaisse à peine sa ravissante future épouse, il est déjà éperdument amoureux d’elle. Il sait qu’à eux deux, ils parviendront à fonder une nouvelle famille heureuse et qu’il sera un excellent père et protecteur. Finalement, le conflit qui a coûté la vie à Kai va être résolu, et son père trouvera enfin la paix, sachant que l’avenir de a maison Prestre est assuré. Il est quasiment impossible de lui faire renoncer à ces belles illusions, comme les personnages impliqués dans cette histoire vont pouvoir le découvrir.
+Ser Garrison est un jeune homme plutôt costaud, grand et musclé à force de s’entraîner aux armes, de chasser et de chevaucher. Il a des traits plutôt ordinaires, quelque peu gâchés par les cicatrices de la varicelle et le peu d’attention qu’ accorde à son apparence. Sa barbe récente permet de dissimuler quelques imperfections et donne une certaine maturité à son visage par ailleurs juvénile, car il n’a que vingt ans. Sylvie déteste cette barbe, mais ne cesse de le flatter à ce sujet. Il est plus à l’aise en habits de cavalier en cuir que pomponné pour la cour, mais dans les deux cas, il a de l’allure.

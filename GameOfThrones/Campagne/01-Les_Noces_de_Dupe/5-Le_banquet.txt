@@ -3,5 +3,38 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-02-02T23:59:08+01:00
 
 ====== 5-Le banquet ======
-Created jeudi 02 février 2017
+
+Une fois l’heureux événement officialisé par un septon, il est temps de faire la fête et de saluer le jeune couple en participant à un somptueux banquet.
+
+===== Prélude =====
+On passe presque immédiatement de la cérémonie à la grande salle du château où un grand banquet attend les convives. Les serviteurs préparent l’événement depius plusieurs jours, et on a dépensé sans compter. Les invités découvrent des tables richement décorées et des serviteurs en livrée portant d’innombrables plateaux de nourriture.
+
+===== Action =====
+Comme dans le cas du [[2-Repas de bienvenue|Festin de bienvenue,]] saisissez l’occasion pour décrire aux joueurs le spectacle, les odeurs et le goût des mets, ainsi que les divers plats qu’on leur sert, y compris:
+* des pigeonneaux rôtis et farcis de fruits secs et de croûtons de pain
+* des cailles ou des faisans dorés, rôtis à l’ail et aux fines herbes
+* de délicates salades de verdure et d’herbes fraîches au vinaigre et à l’huile
+* le gibier que les chasseurs ont rapporté de [[3-La chasse|la chasse]]
+* toute une variété de pains et de pâtisseries, dont beaucoup sont farcies ou recouvertes de fromages et d’herbes
+* des plats de légumes bouillis, rôtis ou cuits
+* des sorbets au citron et à la lavande
+
+C’est l’occasion de porter un toast aux jeunes mariés. Le père de la mariée et celui de son époux la saisissent, et les personnages le peuvent également, en particulier s’ils sont les hôtes ou les invités d’honneur. [[Factions et Personnages:Ouest:Farman:Etan|Ser Etan]] peut porter un toast à la beauté et à la grâce incomparables de [[Factions et Personnages:Ouest:Kenning Kayce:Sylvie|Sylvie.]] Sa tirade ressemble presque à un sonnet romantique, mais contient une fine allusion que peuvent comprendre ceux qui connaissent la vérité au sujet des deux amants.
+
+==== In vino veritas ====
+Le banquet est le moment idéal pour que les invités boivent un peu trop de vin ou de bière et fassent des choses qu’ils regretteront plus tard. Les personnages ont en particulier l’occasion d’empêcher des invités ivres de se battre au sujet d’affronts imaginaires (ou tout à fait réels), tandis que les fanfaronnades et les vantardises rouvrent de vieilles blessures et que les commentaires et les actes irréfléchis en font de nouvelles. Par exemple, un Prestre qui se vente d’avoir abattu un Kenning au combat (ou l’inverse, en particulier s’il s’agit du frère aîné de ser [[Factions et Personnages:Ouest:Prestre:Garrison|Garrison]]) peut enflammer les esprits. Des personnages alins pourraient provoquer délibérément ce genre de confrontations pour détourner l’attention de leurs autres activités, quand il s’agit par exemple de verser quelque substance illicite dans la coupe de vin d’un voisin (voir plus loin)
+
+==== Les accusations pleuvent comme des flèches ====
+Le banquet de mariage est également le moment idéal pour lancer des accusations, en particulier si celui qui les profère n’a pu assister à la cérémonie ou n’avait alors ni aucune raison ni aucune preuve en main. La plupart des suggestions du paragraphe **Qu’il parle ou se taise à jamais** peuvent s’appliquer ici, exacerbées par le vin et les alcools forts qui coulent à flot et délient les langues tout en engourdissant le bon sens des convives.
+Les paroles maladroites peuvent facilement devenir des incitations à tirer l’épée. Les accusations gratuites peuvent se voir sanctionner par un jugement par les armes, et ser Garrison et ser Etan sont des champions potentiels pour laidy Sylvie, en supposant qu’ils ne finissent pas par s’affronter l’un l’autre. D’autres peuvent voler au secours de l’accusateur et en moins de temps qu’il n’en faut pour le dire, on finira par assister à un duel dans la cour du château ou même entre les tables du banquet, selon la situation.
+Si le combat éclate, les hommes présents dans la pièce tenteront de l’empêcher ou de s’y joindre selon les circonstances, tandis que les femmes iront se réfugier en lieu sûr. Si un échange de paroles acerbes provoque un duel ou un jugement par les armes, le combat a lieu dans la cour du château.
+
+==== Un perfide breuvage ====
+Si on veut donner un tour particulièrement ignoble à la fête, quelqu’un — [[Factions et Personnages:Ouest:Kenning Kayce:Eilene|Eilene]] et [[Factions et Personnages:Ouest:Prestre:Darren|Darren]] étant les premiers suspects — peut verser un mélange d’herbes dans la boisson de Sylvie pour la faire avorter, ce qui aura pour conséquence une nuit de noces bien différente de celle qu’elle avait prévue (et Garrison ausssi…). La jalousie des cadets constitue une bonne motivation, mais si vous souhaitez un retournement de situation, la coupable peut être la propre mère de Sylvie qui désire assurer la légitimité de sa maison et de ses futurs petits-enfants. Il peut également s’agir de Garrison, qui, moins n’aïf qu’on ne l’aurait cru, est prêt à accepter Sylvie dans sa maison, mais pas un enfant bâtard. Sinon, l’empoisonneur peut ne pas se contenter de mettre un terme à la grossesse et chercher à tuer le mari ou l’ṕouse (ou les deux!). Quoiqu’il en soit, cet acte provoquera une terrible vengeance et rallumera le conflit entre les familles.
+S’il y a des raisons ou une occasion pour un autre empoisonnement, celui-ci aura sans doute lieu lors du festin, détournant même l’attention de ce qui se passe en réalité. Cf. Chapitre 7 LdB.
+
+===== Résolution =====
+À moins que les personnages n’aient décidé de faire respecter la paix à tout prix, il y a des chances pour qu’à ce point, quelqu’un dévoile la vérité au sujet de Sylvie et ser Etan, et les force tous deux à réagir. La résolution dépend du niveau d’plication des personnages dans cette affaire à ce moment de l’histoire.
+S’ils aident lady Sylvie à dissimuler son aventure et à accomplir ses plans, elle manifestera la reconnaissance adéquate tout en se méfiant d’une trahison potentielle, car les porsonnages en savent trop à son goût. Ils peuvent passer un marché avantageux concernant les maisons dont Sylvie prendra bientôt le contrôle en déclenchant une intrigue adéquate. Naturellement, ser Etan peut se montrer jaloux de tout personnage de sexe masculin qui s’approche de trop près de sa maîtresse, mais tout dépend des négociations.
+Si les personnages s’efforcent de dévoiler les machinations de Sylvie, elle deviendra leur ennemie jurée et saisira la moindre occasion de se venger, du moment qu’elle survive. Même une fois exilée de sa maison, Sylvie Kenning est une femme formidable qui a pour alliée ser Etan, et peut-être même sa maison. Elle acceptera ses pertes quand elle verra qu’elle ne peut rien y faire, mais elle n’oubliera pas qui a suscité sa déchéance.
 

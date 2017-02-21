@@ -8,7 +8,7 @@ Created mardi 31 janvier 2017
 Bon ben c’est simple, il faut la marier celle-là. Plusieurs familles se sont manifestées, toutes visant plus les terres que la donzelle.
 
 la maison [[Factions et Personnages:Ouest:LannisterPortLannis|Lannister]] de Port-Lannis (Maj) ( COUSIN! )
-la maison [[Clegane]] (Chev) a été recalée poliment
+la maison [[Factions et Personnages:Ouest:Clegane|Clegane]] (Chev) a été recalée poliment
 la maison [[Factions et Personnages:Ouest:Lydden|Lydden]] de Fondcombe (!) -> Jeffrey Lydden, fils de Lord Lewis (Maj)
 la maison [[Factions et Personnages:Ouest:Estren|Estren]] de Wyndhall -> Regenard, héritier (Min)
 + ser Robin Moreland, de la maison [[Factions et Personnages:Ouest:Moreland|Moreland,]] s’est fait griller avec un ptit mot du genre «nous devons récupérer ces terres»
@@ -24,10 +24,25 @@ la maison [[Factions et Personnages:Bief:Bulwer|Bulwer]] de Noircouronne -> ser 
 la maison [[Factions et Personnages:Bief:Guivre|Guivre]] de Noirvallon -> Igon Guivre (Min)
 
 la maison [[Factions et Personnages:Conflans:Mallister|Mallister]] de Salvemer -> Patrek Mallister, 12 ans environ (Maj)
-la maison [[Factions et Personnages:Conflans:Frey|Frey]] a envoyé trois prétendants qui sont Wander, Walder et Walder (Maj)
+la maison [[Factions et Personnages:Conflans:Frey|Frey]] a envoyé trois prétendants qui sont Wander, Walter et Waldor (Maj)
 
 la maison [[Factions et Personnages:Val:Grafton|Grafton]] de Goëville -> Gyles Grafton, il a 5 ans !
 
 la maison [[Factions et Personnages:Orage:Morrigen|Morrigen]] de Nid-de-Corbeaux -> ser Richard Morrigen, cadet
+
+===== État: Prologue =====
+* Gregor Clegane recalé
+* Wander Frey recalé
+* ser [[Factions et Personnages:Ouest:Moreland:Robin|Robin Moreland]], recalé avec raison
+	* Il sera présent au mariage, sauf si c’est les Whiteshores qui organisent
+
+Parmi les autres invités présents:
+* Les Lydden enverront ser [[Factions et Personnages:Ouest:Lydden:Jeffrey|Jeffrey]]
+* les Estren enverront ser [[Factions et Personnages:Ouest:Estren:Regenard|Regenard]]
+* Wander Frey présentera ses cousins [[Factions et Personnages:Conflans:Frey:Walter|Walter]] et [[Factions et Personnages:Conflans:Frey:Waldor|Waldor]]
+* [[Factions et Personnages:Ouest:Lannister:TyrionLannister|Tyrion]] de la maison Lannister au moins sera présent, de même que son père [[Factions et Personnages:Ouest:Lannister:TywinLannister|Tywin]] avec un peu de chance. Voir selon les solos.
+
+Nota: Jeffrey Lydden est le parti le plus intéressant, mais le personnage a une //Habitude Gênante//, peut-être qu’il met des mains à toutes les jouvencelles ou quelque-chose du genre.
+Si Walter et Waldor se font recaler, Walder Frey enverra deux autres fils «prendre d’assaut» le manoir. Sinon, ils viendront eux-même se présenter.
 
 @wedding

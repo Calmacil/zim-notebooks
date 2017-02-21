@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-09T23:45:26+01:00
+
+====== Eilene ======
+
+|  Compétences   | Valeurs | Spécialités          |
+|:--------------:|:-------:|:---------------------|
+|   Athlétisme   |    3    |                      |
+|    Agilité     |    3    |                      |
+|  Connaissance  |    3    |                      |
+| Corps à Corps  |    3    | Lames courtes 1      |
+|    Dressage    |    3    |                      |
+|    Duperie     |    3    |                      |
+|  Ingéniosité   |    3    | Mémoire 1            |
+| Langue: Commun |    3    |                      |
+|   Persuasion   |    4    | Charmer 1, Séduire 1 |
+|     Statut     |    3    | Bienséance 1         |
+|   Vigilance    |    4    | Observation 1        |
+|    Volonté     |    3    |                      |
+
+
+|                Profil de rencontre                |
+|:-------------------------------------------------:|
+| Défense de Combat 10 (11) · Défense d’Intrigue 11 |
+|              Santé 6 · Sang-froid 9               |
+|                    Destinée 3                     |
+|     **Avantages**: Charismatique, Séduisante      |
+|        **Défauts** : Faiblesse (Dressage)         |
+
+
+| Armes | Jet d’attaque | Dégâts | Qualités                  |
+|:------|:--------------|:-------|:--------------------------|
+| Dague | 3D + 1B       | 1      | Défensive 1, Secondaire 1 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+Eilene Kenning est la sœur cadette de lady [[Sylvie,]] et elles sont aussi différentes que le jour et la nuit. Eilene est une idéaliste timide et romantique qui n’a pas encore été contaminée par la dure réalité de la vie dans les Sept Couronnes. Bien que sa maison ait connu la guerre, celle-ci ne l’a pas directement touchée, et Eilene rêve d’un royaume en paix, où les responsabilités des chevaliers se limiteraient à participer à des tournois et à ravir le cœur de jeunes et nobles dames comme elle. Elle est à la fois heureuse pour Sylvie et jalouse de toute l’attention qui se focalise sur sa sœur aînée. À 15 ans, Eilene est elle aussi mûre pour le mariage, bien qu’elle espère que Sylvie lui permettra d’épouser l’homme qu’elle aura choisi, ou du moins lui laissera une certaine influence sur le choix de son futur mari.
+En dehors de sa naïveté, le plus gros défaut d’Eilene Kenning est sa passion pour les commérages. Elle a déjà transformé nombre des dames, des demoiselles et même des septas de la maison de ses parants en espionnes qui lui rapportent les rumeurs les plus croustillantes. Le fait qu’Eilene n’ait pas eu vent de l’aventure de Sylvie et d’[[Ouest:Farman:Etan|Etan]] témoigne de leur discrétion, bien qu’elle soupçonne sa sœur de ne pas être aussi enthousiaste à l’égard de ses noces imminentes que chacun veut bien le croire. Si elle venait à apprendre la vérité, Eilene pourrait tenter d’agir honnêtement et d’en faire part à quelqu’un, mais elle en parlerait probablement d’abord à sa sœur. Sylvie aurait alosr l’occasion d’agir, soit en persuadiant Eilene de rester discrète, soit en la faisant taire à 

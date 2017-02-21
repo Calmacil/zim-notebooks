@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-09T23:36:06+01:00
+
+====== Ella ======
+
+| Compétences  | Valeurs | Spécialités             |
+|:------------:|:-------:|:------------------------|
+| Connaissance |    2    | Éducation 1             |
+| Ingéniosité  |    3    |                         |
+|  Persuasion  |    3    | Charmer 1, Marchander 1 |
+|    Statut    |    5    | Bienséance 2            |
+|  Vigilance   |    3    | Empathie 1              |
+|   Volonté    |    3    | Dévouement 1            |
+
+
+|               Profil de rencontre                |
+|:------------------------------------------------:|
+| Défense de Combat 7 (+1) · Défense d’Intrigue 11 |
+|             Santé 6 · Sang-froid 10              |
+|                   Destinée: 1                    |
+|   **Avantages** : Obstinée, Fine gestionnaire    |
+|          **Défauts** : Faiblesse (Tir)           |
+|             Vêtements : VA 0 · MA -0             |
+
+
+| Armes | Jet d’attaque | Dégâts | Qualités                  |
+|:------|:--------------|:-------|:--------------------------|
+| Dague | 2D            | 1      | Défensive 1, Secondaire 1 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+[[Gerard|Lord Gerard]] et Lady Ella Kenning arborent le genre d’ṕuisement que seuls les parents de deux filles exigeantes peuvent éprouver, mais ils le font avec fierté et un certian soulagement à l’idée d’avoir trouvé un mariage avantageux pour [[Sylvie]] et assuré la paix à leur maison. Ils ont perdu deux fils à cause du conflit au fil des ans, et à dire vrai, tous deux sont bien las. Tout ce qu’ils souhaitent, c’est profiter de leurs terres, gâter leurs petits-enfants et peut-être laisser quelque chose à leurs filles.
+Lady Ella s’est quelque peu étoffée aua fil des ans, mais cela lui va bien et elle n’a pas ménagé sa peine pour préparer ses filles à devenir les maîtresses de leur propre maisonnée, ainsi que d’excellentes épouses.

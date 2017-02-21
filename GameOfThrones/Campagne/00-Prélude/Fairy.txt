@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-12T22:46:59+01:00
+
+====== Fairy ======
+Created dimanche 12 février 2017
+
+[ ] L’entraînement
+[ ] La visite de Jon Omble, dit «Lard-Jon»
+[ ] Le mariage des Kennings et des Prestre
+
+===== L’Entrainement =====
+Fairy cherchera certainement à obtenir d'[[Factions et Personnages:Braavos:Ailyr Lathaus|Ailyr Lathaus]] qu’il lui prodigue de l’entraînement. Il peut être trouvé à deux endroits
+
+==== Le terrain d’exercice ====
+Il se situe juste devant les baraquements de la garnison. Ailyr s’y trouvera dans la journée, occupé à enchaîner les duels contre les soldats ou à superviser des exercices. Il est possible de lui parler mais il faudra pour ça capter son attention, tout occupé qu’il est à sa tâche. Seul un événement bruyant / dangereux / surprenant parviendra à détourner Ailyr de sa séance.
+Il n’est pas fondamentalement opposé à l’idée d’entraîner Fairy mais à moins d’une intrigue rondement menée il n’acceptera qu’avec la permission de Lady Morenne.
+
+==== L’auberge ====
+Ailyr s’y rend dès qu’il a terminé sa journée. Il enchaîne les bières… Il est capable de boire quatre (huit?) chopes d’affilée avant de commencer à ressentir les effets de l’alcool. Il est plus facile à aborder ici, et plus facile à convaincre également, la difficulté étant de s’échapper du manoir à la nuit tombante. Il s’attendra tout de même à avoir la permission de Lady Morenne.
+
+==== Convaincre Morenne ====
+Il faut d’abord la trouver. Elle passe ses journées à battre la campagne, à sillonner la ville, le domaine, pour superviser la reconstruction.  Elle n’aime pas l’idée de voir sa fille pratiquer les armes, en bonne dame de maison, mais il est possible de la convaincre en jouant sur les bons arguments. Là encore, il faudra engager une intrigue.
+
+===== La visite de Jon Omble =====
+[[Factions et Personnages:Nord:Omble:Jon|Lard-Jon]] arrive sur les terres des Whiteshores par un beau début de soirée. Fairy peut le croiser si elle bat la campagne, sinon elle surprend son arrive et Morenne les présente rapidement. Il est crasseux, fatigué par un mois de voyage depuis Âtre-lès-confins, et vient demander la main de Fairy. Il apprécie sincèrement la jeune fille et lui apporte une chaude cape d’hermine (tenue noble) en cadeau.
+Il n’est pas forcément le plus fin des négociateurs mais il s’installe au château pour quelques temps, et s’entend relativement bien avec Morenne, ce qui lui donne une légère avance sur ses concurrents. Sa propre disposition est Aimable vis à vis de Morenne et de Fairy, indifférent pour tous les autres. À moins qu’une choppe ou deux ou un bon combat ne viennent briser la glace.
+
+===== Le mariage des Kennings et des Prestre =====
+L’annonce tombe sur la fin du Solo.
+Selon les différents solos, les Whiteshores sont soit invités à Feux-de-Joie par la famille Prestre, soit sommés par Tywin himself, à la recherche d’un terrain neutre entre les deux familles, d’organiser la cérémonie et les festivités qui l’entourent. Dans ce dernier cas, Septon Moore sera envoyé par Castral-Roc.

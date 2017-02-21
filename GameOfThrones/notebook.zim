@@ -2,11 +2,11 @@
 version=0.4
 name=GameOfThrones
 interwiki=
-home=Home
+home=Intrigues
 icon=
 document_root=
 shared=True
 endofline=unix
 disable_trash=False
-profile=None
+profile=
 

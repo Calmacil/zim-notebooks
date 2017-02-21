@@ -13,17 +13,19 @@ Ce sera l’occasion pour Fairy de rencontrer ses cousins… et nombre de ses pr
 
 ===== Index des personnages =====
 
-* Sylvie Kenning, la fiancée
-* Ser Garrison «Gary» Prestre, le fiancé
-* Ser Etan Farman, l’amant
-* Lord Artur Prestre, le père du fiancé
-* Darren Prestre, le benjamin
-* Lord Gerard Kenning et sa femme, Lady Ella
-* Eilene Kenning
-* Le septon Moor
-* Mestre Hamdan
-* Ser Forley Prestre, un cousin (présent ?)
-* Ser Terrence Kenning, un petit frère de Sylvie
+* [[Factions et Personnages:Ouest:Kenning Kayce:Sylvie|Sylvie Kenning]], la fiancée
+* [[Factions et Personnages:Ouest:Prestre:Garrison|Ser Garrison «Gary» Prestre]], le fiancé
+* [[Factions et Personnages:Ouest:Farman:Etan|Ser Etan Farman]], l’amant
+* [[Factions et Personnages:Ouest:Prestre:Artur|Lord Artur Prestre]], le père du fiancé
+* [[Factions et Personnages:Ouest:Prestre:Darren|Darren Prestre]], le benjamin
+* [[Factions et Personnages:Ouest:Kenning Kayce:Gerard|Lord Gerard Kenning]] et sa femme, [[Factions et Personnages:Ouest:Kenning Kayce:Ella|Lady Ella]]
+* [[Factions et Personnages:Ouest:Kenning Kayce:Eilene|Eilene Kenning]]
+* Le [[Factions et Personnages:Ouest:Prestre:SeptonMoor|septon Moor]]
+* [[Factions et Personnages:Ouest:Prestre:MestreHamdan|Mestre Hamdan]]
+* [[Factions et Personnages:Ouest:Prestre:Forley|Ser Forley Prestre]], un cousin (présent ?)
+* Ser [[Factions et Personnages:Ouest:Kenning Kayce:Terrence|Terrence Kenning]], un petit frère de Sylvie
+
+==== Les invités ====
 
 La présence du mestre interdit de faire jouer l’intrigue dans la maison des PJ, vu qu’il a probablement un rôle dans tout ça. Tant pis. Le mariage se déroulera à Kayce.
 

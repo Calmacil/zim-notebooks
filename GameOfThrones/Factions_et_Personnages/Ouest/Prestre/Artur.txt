@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-07T23:36:17+01:00
+
+====== Artur Prestre ======
+Vieux dirigeantA
+|  Compétences  | Valeurs | Spécialités                                        |
+|:-------------:|:-------:|:---------------------------------------------------|
+| Art militaire |    4    | Commandement 1, Stratégie 2                        |
+|  Athlétisme   |    3    |                                                    |
+| Corps à corps |    5    | Lames longues 3                                    |
+|   Dressage    |    3    | Équitation 1                                       |
+|   Endurance   |    4    | Résilience 1                                       |
+|  Ingéniosité  |    3    |                                                    |
+|  Persuasion   |    3    | Convaincre 1, Inciter 1, Persifler 1, Marchander 2 |
+|    Statut     |    5    | Réputation 1                                       |
+|    Survie     |    3    | Chasse 2                                           |
+|   Vigilance   |    3    |                                                    |
+|    Volonté    |    4    |                                                    |
+
+
+|                    Profil de rencontre                    |
+|:---------------------------------------------------------:|
+|      Défense de Combat 8 (3) · Défense d’Intrigue 11      |
+|                 Santé 12 · Sang-froid 12                  |
+|                        Destinée: 1                        |
+| **Avantages** : Chef de famille, Maître des lames longues |
+|     **Défauts** : Faiblesse (Corps à Corps), Distrait     |
+|    Harnois : VA 9 · MA -5 · Enc 3 · Dépl 2 (Sprint 13)    |
+
+
+| Armes       | Jet d’attaque | Dégâts | Qualités |
+|:------------|:--------------|:-------|:---------|
+| Épée longue | 5-1D + 3B     | 4      |          |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+Lord Artur Prestre est un homme fier, mais qui prend de l’âge. Il a perdu sa femme et son fils aîné, et un peu de sa verve est partie avec eux. Il est grand, il a fière allure et des manières distinguées, et il porte une grande barbe impeccablement taillée. Il ressemble par bien des aspects à une version vieillie et grisonnante de son fils [[Garrison]].
+Lord Prestre est impatient de voir son fils marié et d’avoir des petits-enfants pour assurer la survie de la lignée et la sécurité de sa maison. Lord Artur est las du conflit et désire se retirer et remettre certaines responsabilités à Kevan. Depuis peu, il commence à sentir les effets de l’âge et sa propre mortalité lui apparaît désormais, en même temps que la précarité de la vie. Il ne fait pas entièrement confiance à la maison [[Ouest:Kenning Kayce|Kenning,]] mais il pense qu’un mariage entre les deux maisons est dans l’intérêt de tous. Par ailleurs, cela mettra ses vieux rivaux entre les mains de son fils (et de ses petits-fils) par la suite, ce qui le ravit.
+Lord Prestre n’a pas de temps à accorder à ceux dont le statut est inférieur au sien: il a la triste réputation d’oublier les noms de ses domestiques, et Garrison doit fréquemment lui rappeler ceux de ses associés et de ses pairs. Il a des manières polies et méticuleuses, mais il a tendance à ignorer quiconque ne fait pas partie de son cercle social. Malheureusement, cela inclut son fils cadet [[Darren]].

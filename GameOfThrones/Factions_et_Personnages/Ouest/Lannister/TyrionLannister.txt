@@ -3,6 +3,38 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-01-26T14:14:20+01:00
 
 ====== TyrionLannister ======
-Created jeudi 26 janvier 2017
 
 Coquin/Manipulateur jeune adulte (16 ans)
+
+|   Compétences   | Valeurs | Spécialités                                        |
+|:---------------:|:-------:|:---------------------------------------------------|
+|     Agilité     |    3    |                                                    |
+|  Connaissance   |    4    | Éducation 2, Recherches 1                          |
+|   Discrétion    |    3    |                                                    |
+|     Duperie     |    3    | Comédie 1, Bluff 1                                 |
+|   Ingéniosité   |    4    | Mémoire 1                                          |
+| Langue (Commun) |    3    |                                                    |
+|   Persuasion    |    4    | Marchander 1, Convaincre 2, Inciter 1, Persifler 1 |
+|     Statut      |    4    | Bienséance 2                                       |
+|    Vigilance    |    3    | Empathie 1, Observation 1                          |
+|     Volonté     |    4    |                                                    |
+
+
+|                                          Profil de rencontre                                          |
+|:-----------------------------------------------------------------------------------------------------:|
+|                              Défense de Combat 8 · Défense d’Intrigue 11                              |
+|                                        Santé 6 · Sang-froid 12                                        |
+|                                              Destinée: 5                                              |
+| **Avantages** : Mémoire éidétique, Connaissances précises (Histoires et légendes), Maître négociateur |
+|                                     **Défauts** : Nain, Tourmenté                                     |
+
+
+| Armes            | Jet d’attaque | Dégâts | Qualités                    |
+|:-----------------|:--------------|:-------|:----------------------------|
+| Dague supérieure | 2D + 1        | 1      | Défensive +1, Secondaire +1 |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====

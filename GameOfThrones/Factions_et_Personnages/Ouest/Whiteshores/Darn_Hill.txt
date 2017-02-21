@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-18T23:03:42+01:00
+
+====== Darn Hill ======
+Combattant/Meneur, âge mûr (43 ans): 240 / 120	
+|  Compétences  | Valeurs | Spécialités                 |
+|:-------------:|:-------:|:----------------------------|
+|    Agilité    |    3    |                             |
+| Art Militaire |    3    | Commandement 1, Stratégie 1 |
+|  Athlétisme   |    4    | Course 2, Force 1           |
+| Corps à corps |    5    | Casse-têtes 3, Lances 2     |
+|   Dressage    |    4    | Équitation 2                |
+|   Endurance   |    4    | Vigueur 1                   |
+|  Ingéniosité  |    3    |                             |
+|  Persuasion   |    3    |                             |
+|    Statut     |    3    |                             |
+|    Survie     |    3    | Chasse 1, Fourrager 1       |
+|   Vigilance   |    3    |                             |
+|    Volonté    |    3    | Dévouement 1                |
+
+
+|                        Profil de rencontre                         |
+|:------------------------------------------------------------------:|
+|               Défense de Combat · Défense d’Intrigue               |
+|                         Santé · Sang-froid                         |
+|                              Destinée                              |
+| **Avantages** : Maître des casse-têtes 1, Maître des lances 1 et 2 |
+|                   **Défauts** : Arrogant, Bâtard                   |
+|          Cotte de mailles : VA 5 · MA -3 · Enc 2 (mvt 4)           |
+
+
+| Armes              | Jet d’attaque | Dégâts | Qualités                                                                  |
+|:-------------------|:--------------|:-------|:--------------------------------------------------------------------------|
+| Morgenstern        | 5D + 2B       | 4      | Fracassante 1, Hargneuse                                                  |
+| Bouclier           | 5D            | 2      | Défensive +2                                                              |
+| Lance de guerre    | 5D + 2B       | 9      | Hargneuses, Lente, Empalement, Encombrement 2 (cheval), Montée, Puissante |
+| Lance de joute     | 5D + 3B       | 8      | Allonge, Encombrante 1 (cheval), Fragile, Lente, Montée, Puissante        |
+| Dague valyrienne ? | 5D + 1        | 3      | Défensive +1, Secondaire +1                                               |
+
+
+===== Équipement =====
+Il a deux chevaux: un destrier pour les tournois et un coursier pour la guerre. Il s’en occupe toujours lui-même.
+
+===== Fluff =====
+Darn Hill est le demi-frère aîné de Blaith Whiteshores. Il a mené sa propre vie durant un temps, se faisant un nom et de l'expérience, puis a fini par entrer au service de l’une de ses sœurs (laquelle?)
+Il est récemment revenu aux Rivages à la demande de Lady Morenne.
+
+@npc @primaire @secondaire

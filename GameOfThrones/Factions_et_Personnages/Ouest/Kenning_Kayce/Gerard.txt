@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-09T23:25:16+01:00
+
+====== Lord Gerard ======
+
+|  Compétences  | Valeurs | Spécialités                            |
+|:-------------:|:-------:|:---------------------------------------|
+|    Agilité    |    3    |                                        |
+| Art Militaire |    3    |                                        |
+|  Athlétisme   |    3    |                                        |
+| Corps à corps |    4    | Boucliers 1, Lames longues 2, Lances 2 |
+|   Dressage    |    3    | Équitation 2                           |
+|   Endurance   |    3    |                                        |
+|  Persuasion   |    3    | Inciter 2                              |
+|    Statut     |    5    |                                        |
+|   Vigilance   |    3    |                                        |
+|    Volonté    |    3    |                                        |
+
+
+|                   Profil de rencontre                    |
+|:--------------------------------------------------------:|
+| Défense de Combat 7 (1, +4 bcl)  · Défense d’Intrigue 10 |
+|                  Santé 9 · Sang-froid 9                  |
+|                       Destinée: 1                        |
+|                     **Avantages** :                      |
+|            **Défauts** : Faiblesse (Agilité)             |
+|         Harnois complet : VA 10 · MA -6 · Enc 3          |
+
+
+| Armes           | Jet d’attaque | Dégâts | Qualités                                                       |
+|:----------------|:--------------|:-------|:---------------------------------------------------------------|
+| Épée longue     | 4D + 2B       | 4      | Perforante 2                                                   |
+| Lance de guerre | 4D + 2B       | 7      | Empalement, Encombrante 2, Hargneuse, Lente, Montée, Puissante |
+| Grand bouclier  | 4D            | 1      | Défensive +4, Encombrante 1                                    |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+Lord Gerard et lady [[Ella|Ella Kenning]] arborent le genre d’épuisement que seuls les parents de deux filles exigeantes peuvent éprouver, mais ils le font avec fierté et un certain soulagement à l’idée d’avoir trouvé un mariage avantageux pour [[Sylvie]] et assuré la paix à leur maison. Ils ont perdu deux fils à cause du conflit au fil des ans, et à dire vrai, tous deux sont bien las. Tout ce qu’ils souhaitent, c’est profiter de leurs terres, gâter leurs petits-enfants et petu-être laisser quelque chose à leurs filles.
+
+Lord Gérard est un vieux soldat à la hanche abîmée (il est tombé de selle il y a quelques années) mais qui apprécie la chasse, les sorties en plein air et une bonne cuite de temps à autre. Il est en fait tout dévoué à sa femme et ils ont fini par s’aimer après avoir partagé tant d’années de joies et de tragédies.

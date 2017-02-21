@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-09T23:14:16+01:00
+
+====== MestreHamdan ======
+
+|      Compétences      | Valeurs | Spécialités               |
+|:---------------------:|:-------:|:--------------------------|
+|     Connaissance      |    4    | Éducation 2               |
+|       Dressage        |    3    |                           |
+|      Ingéniosité      |    4    | Décryptage 1, Mémoire 1   |
+|    Langue: Commun     |    3    |                           |
+| Langue: Haut valyrien |    2    |                           |
+|      Persuasion       |    3    | Convaincre 1              |
+|         Soins         |    3    | Blessures 1, Infections 1 |
+|        Statut         |    4    | Intendance 1              |
+|        Volonté        |    3    |                           |
+
+
+|                                       Profil de rencontre                                       |
+|:-----------------------------------------------------------------------------------------------:|
+|                           Défense de Combat 6 · Défense d’Intrigue 10                           |
+|                                     Santé 6 · Sang-froid 9                                      |
+|                                           Destinée 1                                            |
+| **Avantages** : Connaissances Précises (Héraldique, Histoires et légendes), Maître des corbeaux |
+|                                  **Défauts** : Faiblesse (Tir)                                  |
+|                                  Robe de mestre : VA 1 · MA -0                                  |
+
+
+| Armes | Jet d’attaque | Dégâts | Qualités                  |
+|:------|:--------------|:-------|:--------------------------|
+| Bâton | 2D            | 2      | 2M, Rapide                |
+| Dague | 2D            | 1      | Défensive 1, Secondaire 1 |
+
+
+===== Équipement =====
+Chaîne de mestre, nécessaire de calligraphie, 2 corbeaux, livres sur l’héraldique et les histoires et légendes
+
+===== Fluff =====
+Mestre Hamdan est une sorte de personnage «flottant», son rôle dépendant de qui organise le mariage. Si ce ne sont pas les PJ, Hamdan est le mestre et gouverneur du château, supervisant la maisonnée et ses serviteurs en conseillant son seigneur et maître. Si les PJ organisent les noces dans leur propre forteresse, Mestre Hamdan sert la maison Prestre et fait partie du cortège du mariage, faisant office de précepteur pour [[Artur|lord Prestre]] et ses fils. Sinon, si les PJ n’ont pas de mestre parmi eux, vous pouvez faire de Hamdan leur intendant et conseiller si vous le préférez.
+Dans tous les cas, hamdan est un érudit d’âge mûr de la Citadelle qui a poursuivi ses études avec zèle, sinon brillamment, accrochant un bon nombre de maillons à la chaîne de mestre qu’il porte. C’est un mestre typique à bien des égards: dédaignant ce qu’il considère comme des superstitions, préférant la raison à la violence, mais quelque peu froid et distant quand il discude du destin d’autri. Il est loyal envers sa maison et son poste, et c’est un domestique efficace et compétent.

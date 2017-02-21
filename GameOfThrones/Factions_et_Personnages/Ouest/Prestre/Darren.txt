@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-09T21:58:04+01:00
+
+====== Darren ======
+
+|   Compétences   | Valeurs | Spécialités                |
+|:---------------:|:-------:|:---------------------------|
+|  Art militaire  |    3    | Commandement 1             |
+|  Corps à corps  |    3    | Lames longues 1            |
+|    Dressage     |    2    | Équitation 1               |
+|    Endurance    |    3    |                            |
+|   Ingéniosité   |    3    |                            |
+| Langue (Commun) |    3    |                            |
+|   Persuasion    |    3    |                            |
+|     Statut      |    3    | Bienséance 1, Intendance 1 |
+|       Tir       |    3    | Arcs 1                     |
+|     Volonté     |    3    |                            |
+
+
+|                       Profil de rencontre                        |
+|:----------------------------------------------------------------:|
+|   Défense de Combat 6 (3, +2 bouclier) · Défense d’Intrigue 8    |
+|                      Santé 9 · Sang-froid 9                      |
+|                            Destinée 2                            |
+| **Avantages** : Fin gestionnaire, Maître d’armes (Épées longues) |
+|                          **Défauts** :                           |
+|             Cotte de mailles  : VA 5 · MA -3 · Enc 2             |
+
+
+| Armes       | Jet d’attaque | Dégâts | Qualités                                           |
+|:------------|:--------------|:-------|:---------------------------------------------------|
+| Épée longue | 3D+1B         | 3      |                                                    |
+| Arc long    | 3D+1B         | 4      | Deux mains, Incommode, Perforante 1, Portée longue |
+| Bouclier    | 3D            | 1      | Défensive +2                                       |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====
+Le frère cadet de [[Garrison]], Darren, est fréquemment écartelé entre son admiration pour son frère et le désir de gagner l’attention et l’approbation de leur père, dont il n’a jamais vraiment profité. Darrern a toujours été le bébé de la famille : alors que sa mère l’adorait, [[Artur|lord Artur]] a tendance à le traiter comme un individu anenxe, même quand Darren est devenu l’héritier présomptif de Garrison (du moins tant que le mariage de Garrison n’a pas produit de fils).
+Darren n’a pas la même nature chahuteuse que ses frères aînés. Il est le fils de sa mère, doté d’un esprit généreux. Il a toutefois été lui aussi formé au maniement des armes, et il est assez compétent. Il fera un chevalier correct, et un jeune lord ou un sénéchal encore meilleur, car il a le don de gérer les gens. Toutefois, il est peu probable qu’il attire l’attention de qui que ce sot, et il restera toujours dans l’ombre ed son frère, en particulier aux yeux de son père.
+Malheureusement pour lui, Darren tombe presque immédiatement amoureux de lady [[Ouest:Kenning Kayce:Sylvie|Sylvie,]] et elle s’en rend compte. Ils ont quasiment le même âge (comme il le fait bien vite remarquer), mais Darren ne trahirait pas consciemment son frère… du moins pas sans arguments convaincants. Sylvie n’érouve sans doute aucun intérêt pour le jeune Darren en dehors de son utilité potentielle en tant que pion. Elle jouera volontiers avec ses sentiments pour l’amener à faire ce qu’elle veut, sous-entendant qu’€lle se donnera à lui, mais elle n’hésitera pas non plus à le vendre ou à s’en débarrasser s’il représente une menace pour ses plans.
+Pour ne rien arranger, la sœur de Sylvie, [[Ouest:Kenning Kayce:Eilene|Eilene,]] s’est timidement attachée à Darren, mais elle n’en fait part à personne et encore moins à lui. Voilà qui donne à Sylvie une autre ficelle à tirer si elle le découvre, à moins que cela ne pousse Eilene à agir, en particulier si Darre est menacé ou dévoile les sentiments qu’il a pour Sylvie.

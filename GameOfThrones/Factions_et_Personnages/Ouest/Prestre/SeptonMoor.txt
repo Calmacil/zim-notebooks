@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-09T23:03:16+01:00
+
+====== SeptonMoor ======
+
+|   Compétences   | Valeurs | Spécialités                           |
+|:---------------:|:-------:|:--------------------------------------|
+|     Agilité     |    3    |                                       |
+|  Connaissance   |    3    | Éducation                             |
+|   Ingéniosité   |    3    |                                       |
+| Langue (commun) |    3    |                                       |
+|   Persuasion    |    3    | Charmer 1, Convaincre 1, Marchander 1 |
+|     Statut      |    4    |                                       |
+|      Soins      |    3    |                                       |
+|    Vigilance    |    3    | Empathie 1                            |
+|     Volonté     |    5    | Coordination 1, Dévouement 1          |
+
+
+|                  Profil de rencontre                   |
+|:------------------------------------------------------:|
+|  Défense de Combat 8 (+4 bcl) · Défense d’Intrigue 10  |
+|                Santé 6 · Sang-froid 16                 |
+|                       Destinée 1                       |
+| **Avantages** : Apprécié par le peuple, Obstiné, Pieux |
+|         **Défauts** : Esclave de la bouteille          |
+|              Robe de septon : VA 1 · MA 0              |
+
+
+| Armes           | Jet d’attaque | Dégâts | Qualités                                                               |
+|:----------------|:--------------|:-------|:-----------------------------------------------------------------------|
+| Masse d’arme    | 2D            | 2      |                                                                        |
+| Grand bouclier  | 2-1D          | 1      | Défensive +4, Encombrante 1                                            |
+| Arbalète lourde | 2D            | 4      | 2 mains, Hargneuse, Lente, Perforante 2, Portée longue, Rechargement 2 |
+
+
+===== Équipement =====
+Symbole du Père
+
+===== Fluff =====
+Prêtre des Sept "local" destiné à diriger la cérémonie du mariage, septon Moor est est un homme qui a une conscience aiguë de son statut de septon. Il l’a obtenu grâce à un dévouement zélé, et il croit sincèrement et profondément que les Sept sont à la fois les dieux de Westeros (et du monde) et des pourvoyeurs de vertus dans la vie comme de salut après la mort. Il cherche donc à pousser son prochain à adopter un comportement approprié, à doucmenet le corriger et à le maintenir sur le droit chemin. Le fait que la plupart des gens ne s’intéressent nullement à ses remarques ne le dissuade en rien.
+Le bon septon serait horrifié par le véritable comportement de [[Ouest:Kenning Kayce:Sylvie|Sylvie Kenning]] s’il venait à l’apprendre, et il répugnerait à mener à bien la cérémonie, en particulier s’il savait que la future mariée est enceinte d’un autre. Qu’il ait ou non le courage de se dresser et de dénoncer cette union, refusant d’accomplir la cérémonie, dépend entièrement de vous: basez-vous sur les circonstances et choisissez ce qui fait progresser l’intrigue dans la direction la plus intéressante.
+Septon Moor est un grand homme assez mince, doté d’un grand front que renforcent encore sa calvitie naissante et ses oreilles quelque peu proéminentes. Il porte en permanence le pendentif en forme d’étoile à sept branches qui symbolise sa foi, mais en dehors de cela, il ne revêt qu’une robe cléricale des plus classiques. Son vêtement rituel officiel offre un contraste saisissant par rapport à ses habits de tous les jours, couleur ivoire et arc-en-ciel, avec un pendentif à sept branches en cristal.4

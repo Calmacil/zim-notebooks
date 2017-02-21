@@ -3,6 +3,43 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-01-26T14:10:39+01:00
 
 ====== TywinLannister ======
-Created jeudi 26 janvier 2017
 
 Manipulateur d’âge mûr (47 ans)
+
+
+|   Compétences    | Valeurs | Spécialités                                          |
+|:----------------:|:-------:|:-----------------------------------------------------|
+|     Agilité      |    3    |                                                      |
+|  Art militaire   |    6    | Commandement 3, Stratégie 2                          |
+|    Athlétisme    |    3    |                                                      |
+|   Connaissance   |    3    |                                                      |
+|  Corps à corps   |    4    | Lames longues 1                                      |
+|     Dressage     |    3    |                                                      |
+|    Endurance     |    4    |                                                      |
+|   Ingéniosité    |    3    |                                                      |
+| Langue (commune) |    3    |                                                      |
+|    Persuasion    |    4    | Marchander 2, Convaincre 1, Intimider 2, Persifler 1 |
+|      Statut      |    6    | Bienséance 2, Réputation 2, Intendance 3             |
+|    Vigilance     |    3    |                                                      |
+|     Volonté      |    4    | Dévouement 2                                         |
+
+
+|                                                                          Profil de rencontre                                                                           |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                            Défense de Combat 9 (4) · Défense d’Intrigue 12                                                             |
+|                                                                        Santé 9 · Sang-froid 14                                                                         |
+|                                                                              Destinée: 1                                                                               |
+| **Avantages** : Autorité, Sang des Andals (Art Militaire),\nExpertise (Stratégie), Célèbre, Apprécié par les nobles,\nChef de famille, Meneur d’hommes, Obstiné, Riche |
+|                                                                  **Défauts** : Faiblesse (Endurance)                                                                   |
+|                                                            Harnois complet supérieur: VA 10 · MA -5 · Enc 3                                                            |
+
+
+| Armes                  | Jet d’attaque | Dégâts | Qualités |
+|:-----------------------|:--------------|:-------|:---------|
+| Épée longue supérieure | 4D + 1B + 1   | 5      |          |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====

@@ -20,4 +20,18 @@ Created dimanche 15 janvier 2017
 | Dorne                    | -       | -5        | -5  | -          | +10       | -        | +10        |
 
 
+===== Modificateurs de statut =====
 
+| Statut | Rang de la famille | Modif |
+|:-------|:-------------------|:------|
+| 2      | Chev. Errant       | -20   |
+| 3      | Chev. Fieffé       | -10   |
+| 4      | Maison mineure     | +/- 0 |
+| 5      | Maison majeure     | +10   |
+| 6      | Grande maison      | +20   |
+| 7      | Maison royale      | +30   |
+
+
+Ce modificateur s’applique, ou non, de manière totalement arbitraire.
+Pas de demi-mesure.
+Les postes concernés sont Territoire et Puissance au premier chef, puis Défense, Influence et Richesse. Loi et Population ne devraient pas être concernés.

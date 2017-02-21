@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-15T01:01:41+01:00
+
+====== Ser Jon Omble, dit Lard-Jon ======
+
+|   Compétences    | Valeurs | Spécialités                                       |
+|:----------------:|:-------:|:--------------------------------------------------|
+|     Agilité      |    3    |                                                   |
+| Art de la Guerre |    3    | Commandement 1                                    |
+|    Athlétisme    |    5    | Course 2, Force 3                                 |
+|  Corps à corps   |    4    | Lames longues 2                                   |
+|     Duperie      |    3    |                                                   |
+|    Endurance     |    5    | Résilience 2                                      |
+|    Persuasion    |    3    | Charme 1, Convaincre 1, Marchander 1, Intimider 2 |
+|      Statut      |    4    | Intendance 1                                      |
+|    Vigilance     |    4    | Observation 2                                     |
+|     Volonté      |    4    |                                                   |
+
+
+|                                 Profil de rencontre                                 |
+|:-----------------------------------------------------------------------------------:|
+|              Défense de Combat 12 (9, +2 bcl) · Défense d’Intrigue 10               |
+|                              Santé 16 · Sang-froid 12                               |
+|                                     Destinée 2                                      |
+| **Avantages** : Immense, Sang des premiers hommes (+2 Santé, +2 res. Endu), Coriace |
+|                                    **Défauts** :                                    |
+|                       Cotte de mailles : VA 5 · MA -3 · Enc 2                       |
+
+
+| Armes       | Jet d’attaque | Dégâts | Qualités                                   |
+|:------------|:--------------|:-------|:-------------------------------------------|
+| Bouclier    | 4D            | 3      | Défensive +2                               |
+| Épée longue | 4D + 2B       | 5      |                                            |
+| Espadon     | 4D + 2B       | 11     | 2M, Puissante, Lente, Incommode, Hargneuse |
+
+
+===== Équipement =====
+Tout ce qui n’est pas arme ou armure
+
+===== Fluff =====

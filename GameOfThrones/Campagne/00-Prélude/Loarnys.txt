@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-12T22:47:08+01:00
+
+====== Loarnys ======
+Created dimanche 12 février 2017
+
+[ ] Un mystérieux corbeau ?? (facultatif)
+[ ] La séduction de Lady Morenne
+[ ] Au bordel
+[ ] L’assassin
+[ ] L’annonce du mariage
+
+On pourra éventuellement passer sur les événements d’il y a quatre ans qui ont mené au décès de Lord Blaith.
+
+===== Un mystérieux corbeau =====
+Un corbeau portant un message non signé donne rendez-vous à Loarnys dans un endroit improbable.
+TODO Développer cette partie!!!
+
+===== La séduction de Lady Morenne =====
+L’occasion de tester le système d’intrigues. On verra avec Caurasse les modalités, mais il est probable que Loarnys penche pour une action lente et mesurée afin d’être certain du résultat. Soigner les descriptions du comportement de Morenne entre chaque round: elle est inquiète, échaudée, elle fait la tronche, effrayée, confiante, en colère…
+Morenne est fidèle à son mari et tentera de repousser le mestre, mais c’est une femme bien seule. Il est possible de la faire plier en usant de //charme//, la simple séduction engendrera des réactions plus négatives. (Ça peut fonctionner aussi, on sait jamais)
+
+===== Au bordel =====
+Voir avec Caurasse pour les noms des occupantes. Les filles ont Persuasion 3 (Séduction 1), la maquerelle Persuasion 4 (Séduction 1, Marchander 2) et Ingéniosité et Vigilance 3 (défense d’intrigue 5)
+
+Une nouvelle occupante est récemment arrivée: Tysha, l’ex-femme de Tyrion Lannister. Elle est effectivement allée «là ou vont les putes».
+
+Elle a le même profil que la maquerelle, mais Volonté 3 en plus et le défaut Tourmenté. Elle refuse de travailler pour l’instant, tant les hommes lui font horreur depuis son expérience malheureuse avec une certaine garnison.
+
+===== L’assassin =====
+Franklyn Fowler tente de supprimer son dernier «rival», même si Loarnys a prêté le serment du Mestre. En effet, le capotage de l’union des deux familles lui laisse un goût amer dans la bouche. Il s’est installé à l’auberge du coin et surveille la rue depuis sa chambre, guettant les passages autour du bordel. Il tentera de frapper pendant que Loarnys sera «distrait».
+Druze pourra peut-être empêcher la chose s’il repère le personnage, délayer la scène de l’assassin.
+
+===== L’annonce du mariage =====
+C’est Loarnys qui reçoit le corbeau. Utiliser l’un des deux messages suivants, selon.
+
+«À Lady Morenne Whiteshores,
+Comme vous devez déjà le savoir, les maisons Kenning et Prestre doivent s’unir prochainement par le mariage de leurs héritiers respectifs, lady Sylvie et ser Garrison. Ces deux maisons sont bien connues à travers les terres de l’Ouest pour le long conflit qui les oppose depuis maintenant plusieurs décennies, et se sont malheureusement trouvées incapables de s’entendre sur le lieu de la cérémonie. En tant que Protecteur de l’Ouest, je vous confie la tâche d’héberger et d’organiser les festivités. Votre domaine est situé loin du territoire de ces deux maisons et constitueras un excellent terrain neutre.
+Tywin, de la maison Lannister, Protecteur de l’Ouest»
+
+«À tous les nobles des terres de l’Ouest,
+J’ai l’honneur de vous faire part de l’union de mon fils Garrison et de la fille de Lord Kenning, lady Sylvie. Vous êtes conviés à la cérémonie ainsi qu’aux festivités, qui se dérouleront en mon domaine de Feux-de-Joie, sous quinzaine.
+Artur Prestre»
+
+Le mestre lira avant de la remettre à Lady Morenne, ou pas. On verra. Lady Morenne prétextera des affaires urgentes à régler mais enverra sa fille la représenter.

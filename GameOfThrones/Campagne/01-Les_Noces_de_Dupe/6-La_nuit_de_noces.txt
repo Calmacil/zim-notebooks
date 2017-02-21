@@ -3,5 +3,21 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-02-02T23:59:36+01:00
 
 ====== 6-La nuit de noces ======
-Created jeudi 02 février 2017
+
+Le jour du mariage se conclut en escortant les jeunes mariés jusqu’à leur lit nuptial, ce qui fournit une dernière occasion de terminer la journée de façon dramatique, et certainement pas de la façon qu’espérait Garrison Prestre!
+
+===== Prélude =====
+Une fois qu’il est évident que le chapitre du [[5-Le banquet|Banquet]] tire à sa fin, les hommes et les femmes des deux familles préparent les jeunes mariés pour les mener à leur lit nuptial et consommer leur union. Certains personnages peuvent être impliqués dans cette étape en fonction du rôle quils tenaient durant le mariage. Sinon, la majeure partie de ce chapitre se déroule «en coulisse» à moins que quelque-chose n’attire l’attention de tout le monde.
+
+===== Action =====
+Vous avez deux possibilités, mais les événements qui ont précédé et les actions des personnages ont pu faire pencher la balance pour l’une ou l’autre. On suppose ici que l’histoire se porusuit et que les personnages, qui sont toujours impliqués dans les tribulations du château, ne se contentent pas d’abandonner les jeunes mariés et les invités à leur sort.
+
+==== L’époux endormi ====
+[[Factions et Personnages:Ouest:Kenning Kayce:Sylvie|Sylvie Kenning]] donne à un [[Factions et Personnages:Ouest:Prestre:Garrison|Garrison Prestre]] bien éméché une potion somnifère pour s’assurer qu’il s’endorme dans le lit nuptial. Elle en profite pour se glisser dehors et rejoindre [[Factions et Personnages:Ouest:Farman:Etan|ser Etan]] dans ses quartiers afin de profiter de sa compagnie durant la nuit. Quiconque soupçonne Sylvie d’infidélité peut la voir quitter sa chambre nuptiale seule ou pénétrer dans celle de son amant: c’est l’occasion de les prendre sur le fait. Tout dépend ensuite si les amants illicites pensent qu’ils peuvent se sortir de ce mauvais pas: les opportunités d’intrigue et même de combat abondent.
+
+==== Le lit ensanglanté ====
+Il existe une solution encore plus dramatique: il s’agit de faire du lit nuptial une scène de crime. Sylvie peut saisir l’occasion de tuer son tout nouvel époux immédiatement, peut-être en l’empoisonnant, car des méthodes plus violentes risquent de susciter des questions auxquelles elle ne pourra répondre. De même, un ser Garrison enragé peut tuer Sylvie dans une crise de rage, en particulier s’il a appris le fin mot de l’histoire concernant ses trahisons. Une fois revenu à la raison, il vient trouver les personnages pour leur expliquer qu’il ne sait que faire. Vous pouvez même faire intervenir un troisième larron (ser Etan, [[Factions et Personnages:Ouest:Prestre:Darren|Darren,]] [[Factions et Personnages:Ouest:Kenning Kayce:Eilene|Eilene]] ou quelqu’un d’autre) qui les tue tous les deux, laissant les personnages découvrir les cadavres ou accourir en premier quand un personnage du narrateur ou un serviteur crie au meurtre au beau milieu de la nuit! Voilà qui peut déboucher sur un tout nouveau développement de l’intrigue pour démasquer le tueur.
+
+===== Résolution =====
+Une fois que Garrison et Sylvie sont mariés et ont passé la nuit de noce (qu’ils y survivent ou non…), les événement sont terminés. Les personnages peuvent soit rentrer chez eux (faisant peut-être quelques intéressantes rencontres en chemin), soit renvoyer les invités et les familles des mariés de leurs foyers et revenir à la normale. Ils auront peut-être conclu de nouvelles alliances ou se seront fait quelques ennemis avec lesquels ils devront compter lors de vos prochaines aventures du JDRTDF.
 
