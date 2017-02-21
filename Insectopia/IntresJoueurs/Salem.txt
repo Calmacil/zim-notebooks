@@ -9,20 +9,26 @@ Api, wat ?
 
 ===== Caracs =====
 
-* Ailes 4  (Agilité , Défense )
-* Antenne 4  (Phéro , Tir )
-* Chitine  2 (Chrysalide , Résistance )
-* Esprit  4 (Conscience , Instinct )
-* Mandibule 3  (Mêlée , Prédateur )
-* Température 3  (Activité , Métabolisme )
-* Caste 3 ()
+* Ailes 4  (Agilité 4, Défense 3)
+* Antenne 5  (Phéro 2, Tir 4)
+* Chitine  2 (Chrysalide 1, Résistance 2)
+* Esprit  4 (Conscience 2, Instinct 4)
+* Mandibule 3  (Mêlée 2, Prédateur 3)
+* Température 3  (Activité 2, Métabolisme 2)
+* Caste 3 (Art des voleurs 1, Infiltration 2, Escrime 1)
 
 ==== Secondaires ====
-Défense 
-Init 
-Fluide 
+Défense 3
+Init 2
+Fluide 3 
 
 ===== Capacités =====
 * Ailé
 * Dard
 * Cire
+* Lance-dard
+* Déplacemernt silencieux
+
+Armure de cuir
+Dard, lance-dard
+Rapis (Att 1, Dgt ), Arbalète (4, 4), Fronde  (4, 2)
